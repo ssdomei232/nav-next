@@ -1,0 +1,24 @@
+# 书籍资料
+- name: 鸠摩搜索 Jiumo Search
+  url: https://www.jiumodiary.com/
+  description: 免费书籍下载
+  subcategory: 书籍资料
+- name: LoreFree 电子书
+  url: https://ebook2.lorefree.com/
+  description: 免费电子书共享社区
+  subcategory: 书籍资料
+- name: LoreFree 学术文库
+  url: http://paper.lorefree.com/
+  description: 学术共享，资源共建，让知识自由传播
+  subcategory: 书籍资料
+
+# 网络
+- name: local-ISPs-to-CN
+  url: https://github.com/sjlleo/local-ISPs-to-CN/blob/cd760ca23cc9d1e4981af8993ab42a67885cc2f6/report_zh_CN.md
+  description: 国内/国际互联线路知识
+  subcategory: 网络
+- name: China Internationally-connected
+  url: https://github.com/china-net/Internationally-connected
+  description: 中国的国际网络互联状态介绍
+  subcategory: 网络
+

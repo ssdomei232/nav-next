@@ -1,0 +1,11 @@
+# 应用适配
+- name: 星火应用商店
+  url: https://www.spark-app.store/
+  description: 专注Linux应用适配的应用商店
+  subcategory: 应用适配
+
+# 外设驱动
+- name: logiops
+  url: https://github.com/PixlOne/logiops
+  description: 适用于 HID++ Logitech 设备的非官方用户空间驱动程序
+  subcategory: 外设驱动

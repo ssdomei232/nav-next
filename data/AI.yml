@@ -1,0 +1,113 @@
+# ASR
+- name: CapsWriter
+  url: https://github.com/HaujetZhao/CapsWriter
+  description: 一款电脑语音输入工具,也可以用来添加字幕
+  subcategory: ASR
+
+# TTS
+- name: ChatTTS
+  url: https://github.com/2noise/ChatTTS
+  description: 一款适用于日常对话的生成式语音模型
+  subcategory: TTS
+- name: GPT-SoVITS
+  url: https://github.com/RVC-Boss/GPT-SoVITS
+  description: 强大的少样本语音转换与语音合成Web用户界面
+  subcategory: TTS
+- name: Bert-VITS2
+  url: https://github.com/2noise/ChatTTS
+  description: 强大的开源TTS模型
+  subcategory: TTS
+
+# 大语言模型
+- name: bilibot
+  img: /img/bilibot.jfif
+  description: 由哔哩哔哩用户评论微调训练而成的本地聊天机器人
+  subcategory: 大语言模型
+- name: ChatGLM3
+  img: /img/ChatGLM3.png
+  description: 开源双语对话语言模型,智谱AI和清华大学 KEG 实验室联合发布
+  subcategory: 大语言模型
+- name: GLM-4
+  img: /img/GLM-4.png
+  description: 开源多语言多模态对话模型,智谱 AI 推出
+  subcategory: 大语言模型
+- name: Ask Many AI
+  img: /img/askmanyai.ico
+  description: 同时向多种模型提问
+  subcategory: 大语言模型
+- name: petercat
+  img: /img/petercat.png
+  description: 为自己的 GitHub 仓库一键创建智能答疑机器人
+  subcategory: 大语言模型
+
+# 其它
+- name: MemFree
+  url: https://github.com/memfreeme/memfree
+  description: 一个混合 AI 搜索引擎，代码开源，可以自托管
+  subcategory: 其它
+- name: 数字生命
+  url: https://github.com/zixiiu/Digital_Life_Server
+  description: 极客湾的数字生命项目
+  subcategory: 其它
+- name: firecrawl
+  url: https://github.com/mendableai/firecrawl
+  description: 将网站自动转换为LLM数据
+  subcategory: 其它
+- name: Real-time-translation-typing
+  url: https://github.com/sxzxs/Real-time-translation-typing
+  description: 实时打字翻译助手
+  subcategory: 其它
+- name: RefAudioEmoTagger
+  url: https://github.com/Alexw1111/RefAudioEmoTagger
+  description: 一种基于Emotion2Vec的批量音频情感自动标注脚本
+  subcategory: 其它
+- name: Crawl4AI
+  url: https://github.com/unclecode/crawl4ai
+  description: 开源AI网络爬虫工具,可以直接用于大语言模型和AI应用。性能快，还能输出适合大语言模型的格式，比如JSON、清理过的HTML和markdown。它还支持同时爬取多个网址，能提取所有媒体标签（图片、音频、视频），以及所有内外部链接。可以自定义用户代理，还能给网页截图，甚至在爬取之前执行自定义JavaScript。
+  subcategory: 其它
+
+# 图像影音
+- name: IC-Light
+  url: https://github.com/lllyasviel/IC-Light
+  description: 为图像重新打光和更换背景
+  subcategory: 图像影音
+- name: APISR
+  url: https://github.com/Kiteretsu77/APISR
+  description: 开源的图像超分辨率模型
+  subcategory: 图像影音
+- name: ComfyUI
+  url: https://github.com/comfyanonymous/ComfyUI
+  description: 一个强大的、模块化的 Stable Diffusion GUI，具有图形/节点界面
+  subcategory: 图像影音
+- name: LivePortrait
+  url: https://github.com/KwaiVGI/LivePortrait
+  description: 控制图像的面部表情和动作
+  subcategory: 图像影音
+- name: CogVideo
+  url: https://github.com/THUDM/CogVideo
+  description: 质谱开源的文生视频模型
+  subcategory: 图像影音
+- name: metahuman-stream
+  url: https://github.com/lipku/metahuman-stream
+  description: 实时交互流式数字人项目
+  subcategory: 图像影音
+- name: image-matting
+  url: https://github.com/pangxiaobin/image-matting
+  description: 本地桌面AI抠图软件
+  subcategory: 图像影音
+- name: Deep Live Cam
+  url: https://deeplive.cam/zh
+  description: 只需一张图片，就可实现视频的人脸替换
+  subcategory: 图像影音
+- name: Linly-Dubbing
+  url: https://github.com/Kedreamix/Linly-Dubbing
+  description: AI 视频配音的开源工具，自动将外语视频改成中文配音
+  subcategory: 图像影音
+- name: HivisionIDPhotos
+  url: https://github.com/Zeyi-Lin/HivisionIDPhotos
+  description: 一个轻量级的AI证件照制作算法
+  subcategory: 图像影音
+- name: facefusion
+  url: https://github.com/facefusion/facefusion
+  description: AI 换脸工具
+  subcategory: 图像影音

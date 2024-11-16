@@ -1,0 +1,15 @@
+# 资讯
+- name: SBDJI
+  url: https://sbdji.cc/
+  description: 全球无人机资讯汇总
+  subcategory: 资讯
+
+# 工具
+- name: 天空之城
+  url: https://www.skypixel.com/
+  description: 小偷模拟器,获取各景点保安的详细活动轨迹和性格
+  subcategory: 工具
+- name: 民用无人驾驶航空器综合管理平台
+  url: https://uom.caac.gov.cn/
+  description: 国家无人驾驶航空器一体化综合监管服务平台(民用无人驾驶航空器综合管理平台)
+  subcategory: 工具

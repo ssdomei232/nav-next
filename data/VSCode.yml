@@ -1,0 +1,43 @@
+# 前端
+- name: Vue 3 Snippets
+  url: https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets
+  description: Vue.js 3 和 Vue.js 2 代码片段扩展
+  subcategory: 前端
+- name: Vue - Official
+  url: https://marketplace.visualstudio.com/items?itemName=Vue.volar
+  description: Vue 代码补全和检查
+  subcategory: 前端
+- name: JavaScript Debugger
+  url: https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug
+  description: 将断点映射到浏览器中
+  subcategory: 前端
+- name: Live Server
+  url: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+  description: 启动一个本地 WEB 服务器
+  subcategory: 前端
+- name: CSS Peek
+  url: https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
+  description: 根据 css 类和 id 定位到对应的文件中
+  subcategory: 前端
+- name: Console Ninja
+  url: https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja
+  description: 将 console.log 的打印显示在代码右侧
+  subcategory: 前端
+
+# 其它
+- name: aide
+  url: https://github.com/nicepkg/aide
+  description: 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件
+  subcategory: 其它
+- name: GitLens
+  url: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+  description: 在 VS Code 中增强 Git
+  subcategory: 其它
+- name: Easy CodeSnap
+  url: https://marketplace.visualstudio.com/items?itemName=ArthurLobo.easy-codesnap
+  description: 生成美观的代码截图
+  subcategory: 其它
+- name: TODO Highlight
+  url: https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
+  description: 高亮 TODO、FIXME 等关键词,注视
+  subcategory: 其它

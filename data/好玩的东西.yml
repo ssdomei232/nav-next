@@ -1,0 +1,21 @@
+- name: chinese-programmer-wrong-pronunciation
+  url: https://github.com/shimohq/chinese-programmer-wrong-pronunciation
+  description: 中国程序员容易发音错误的单词
+- name: AI 嘴替
+  url: https://zuiti.app/
+  description: 对指定的微博用户进行人格分析
+- name: similar-websites
+  url: https://sitechecker.pro/similar-websites/
+  description: 查找相似的网站
+- name: saucenao.com
+  url: https://saucenao.com/
+  description: 强大的以图搜图，尤其是 pixiv 上的图片
+- name: 退休计算器
+  url: https://daojishi.fun/
+  description: 退休计算器,人生找乐子
+- name: AntiZhaPian
+  url: https://github.com/XJP-GIT/AntiZhaPian
+  description: 假的国家反诈中心
+- name: debian-media-box
+  url: https://github.com/moesoha/debian-media-box
+  description: “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。

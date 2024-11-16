@@ -1,0 +1,87 @@
+# 工具
+- name: CSS可视化
+  url: https://css.bqrdh.com/
+  description: CSS可视化
+  subcategory: 工具
+- name: CSS灵感
+  url: https://csscoco.com/inspiration/#/
+  description: 可以让你寻找到使用或者是学习 CSS 的灵感
+  subcategory: 工具
+- name: iCSS
+  url: https://github.com/chokcoco/iCSS
+  description: 围绕 CSS/Web动画 展开，谈一些有趣的话题
+  subcategory: 工具
+- name: icons8
+  url: https://icons8.com/
+  description: 免费图标工具
+  subcategory: 工具
+- name: fontright
+  url: https://js.design/fontright?source=OMG&plan=bz
+  description: 字体版权工具
+  subcategory: 工具
+- name: HTML5 UP
+  url: https://html5up.net/
+  description: 大量好看的免费 HTML 模板
+  subcategory: 工具
+- name: ConvertFast UI
+  url: https://ui.convertfa.st/
+  description: 一个快速生成落地页的工具，可以选择落地页的常见模块
+  subcategory: 工具
+- name: favicon.im
+  url: https://favicon.im/
+  description: 下载或在网页中插入其他网站的 Favicon 图片，可以放大显示
+  subcategory: 工具
+- name: Porn Logo Maker
+  url: https://porn-logo.com/
+  description: 定制拼色 Logo 的在线工具
+  subcategory: 工具
+- name: Penpot
+  url: https://penpot.app/
+  description: 一个基于 Web 的开源设计工具，Figma 的替代品
+  subcategory: 工具
+- name: jsongenerator
+  url: https://www.jsongenerator.io/
+  description: 生成符合要求的 Json 伪数据
+  subcategory: 工具
+- name: JSON For You
+  url: https://github.com/loggerhead/json4u/
+  description: 开源的 JSON 数据的在线可视化、处理工具
+  subcategory: 工具
+
+# Javascript库
+- name: anti-baidu
+  url: https://github.com/lurongkai/anti-baidu
+  description: 如果有人通过百度搜索访问您的网站，就会弹出一个反百度对话框
+  subcategory: Javascript库
+- name: Toastr
+  url: https://github.com/CodeSeven/toastr
+  description: 简单的 javascript Toast 通知   
+  subcategory: Javascript库
+- name: Swiper
+  url: https://www.swiper.com.cn/
+  description: 目前应用较广泛的移动端网页触摸内容滑动js插件
+  subcategory: Javascript库
+- name: tesseract.js
+  url: https://github.com/naptha/tesseract.js
+  description: 适用于 100 多种语言的纯 Javascript OCR
+  subcategory: Javascript库
+- name: nsfwjs
+  url: https://github.com/infinitered/nsfwjs
+  description: 鉴黄JS
+  subcategory: Javascript库
+- name: driver.js
+  url: https://github.com/kamranahmedse/driver.js
+  description: 精美,轻量的用户引导JS
+  subcategory: Javascript库
+- name: quicklink
+  url: https://github.com/GoogleChromeLabs/quicklink
+  description: 在空闲时间预加载视口内链接,会增加带宽负担
+  subcategory: Javascript库
+- name: Text Search Engine
+  url: https://github.com/cjinhuo/text-search-engine
+  description: 模糊搜索库，具有中文拼音的模糊搜索等多种功能
+  subcategory: Javascript库
+- name: fakeCAPTCHA
+  url: https://github.com/fucklinux/fakeCAPTCHA
+  description: 假的人机验证组件,可自定义显示内容
+  subcategory: Javascript库

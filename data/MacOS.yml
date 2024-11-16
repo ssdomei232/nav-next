@@ -1,0 +1,4 @@
+- name: NotchDrop
+  url: https://github.com/Lakr233/NotchDrop/
+  description: 将 MacBook 刘海变成一个文件传输和暂存区域
+  subcategory: 实用软件
