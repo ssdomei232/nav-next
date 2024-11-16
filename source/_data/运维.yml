@@ -1,0 +1,72 @@
+- name: Ban-Hacker-IP-Plan
+  url: https://github.com/Aabyss-Team/Ban-Hacker-IP-Plan
+  img: /img/Ban-Hacker-IP-Plan.jfif
+  description: 国内恶意IP封禁计划，还赛博空间一片朗朗乾坤
+- name: LinuxMirors
+  url: https://linuxmirrors.cn/
+  img: /img/LinuxMirors.png
+  description: GNU/Linux 更换系统软件源脚本及 Docker 安装脚本
+- name: lxc-toolkit
+  url: https://github.com/no-passwd/lxc-toolkit
+  img: 
+  description: lxc系统检测工具,用于获取lxc宿主信息
+- name: docker_image_pusher
+  url: https://github.com/tech-shrimp/docker_image_pusher
+  img: /img/docker_image_pusher.png
+  description: 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用
+- name: fscan
+  url: https://github.com/shadow1ng/fscan
+  img: /img/fscan.jfif
+  description: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描
+- name: vscan
+  url: https://github.com/veo/vscan
+  img: /img/vscan.gif
+  description: 网站漏洞扫描工具，帮助您快速检测网站安全隐患
+- name: china-operator-ip
+  url: https://github.com/gaoyifan/china-operator-ip
+  img: /img/china-operator-ip.jfif
+  description: 中国运营商IPv4/IPv6地址库-每日更新
+- name: 1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  img: /img/1Panel.jfif
+  description: 现代化、开源的 Linux 服务器运维管理面板
+- name: ddns-go
+  url: https://github.com/jeessy2/ddns-go
+  img: /img/ddns-go.jfif
+  description: 简单易用的DDNS
+- name: electerm
+  url: https://github.com/electerm/electerm
+  img: /img/electerm.png
+  description: 开源终端/ssh/telnet/serialport/RDP/VNC/sftp客户端
+- name: xterminal
+  url: https://www.xterminal.cn/
+  img: /img/xterminal.svg
+  description: 不仅是强大的SSH工具，更提供本地控制台
+- name: MegaEase
+  url: https://megaease.cn/
+  img: /img/MegaEase.png
+  description: 开源、自主可控、低成本、高可用 Cloud Native 平台
+- name: NETworkManager
+  url: https://github.com/BornToBeRoot/NETworkManager
+  img: /img/NETworkManager.svg
+  description: 开源的强大网管工具
+- name: Nmap
+  url: https://github.com/nmap/nmap
+  img: /img/Nmap.png
+  description: 网络扫描神器
+- name: hackingtool
+  url: https://github.com/Z4nzu/hackingtool
+  img: /img/hackingtool.png
+  description: 融合了各类漏洞扫描和攻击工具
+- name: InternetTest Pro
+  url: https://github.com/Leo-Corporation/InternetTest
+  img: /img/InternetTest Pro.png
+  description: 一款Windows连接工具，功能强大
+- name: pvetools
+  url: https://github.com/ivanhao/pvetools
+  img: /img/pvetools.webp
+  description: Proxmox VE Tools 脚本（Debian 9+ 可以使用）。包括电子邮件、samba、NFS set zfs max ram、嵌套虚拟化、docker、pci passthrough等
+- name: cloud_dns_exporter
+  url: https://github.com/eryajf/cloud_dns_exporter
+  img: 
+  description: 自动获取DNS提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为Prometheus Metrics。

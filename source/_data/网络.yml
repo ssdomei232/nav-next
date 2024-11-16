@@ -1,0 +1,12 @@
+- name: local-ISPs-to-CN
+  url: https://github.com/sjlleo/local-ISPs-to-CN/blob/cd760ca23cc9d1e4981af8993ab42a67885cc2f6/report_zh_CN.md
+  img: /img/local-ISPs-to-CN.jfif
+  description: 国内/国际互联线路知识
+- name: ZBProxy
+  url: https://github.com/layou233/ZBProxy/
+  img: /img/ZBProxy.png
+  description: 一个简单、快速、高性能的多用途 TCP 中继，主要为搭建 Hypixel 加速 IP 而开发。  
+- name: China Internationally-connected
+  url: https://github.com/china-net/Internationally-connected
+  img: /img/China-Internationally-connected.png
+  description: 中国的国际网络互联状态介绍

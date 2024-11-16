@@ -1,0 +1,132 @@
+- name: BewlyBewly
+  url: https://github.com/hakadao/BewlyBewly/
+  img: /img/BewlyBewly.png
+  description: 重新设计 BiliBili 用户界面来提升用户体验
+- name: terminal
+  url: https://github.com/microsoft/terminal
+  img: /img/terminal.png
+  description: 好看且好用的终端,微软出品   
+- name: DistroSea
+  url: https://distrosea.com/
+  img: /img/DistroSea.ico
+  description: 在线试用各种 Linux 发行版，它会分配一个虚拟机，浏览器里连接桌面
+- name: 错别字检测
+  url: http://www.biezi.com/
+  img: /img/biezi.png
+  description: 为文章检查错别字
+- name: 特殊英文字体生成器
+  url: https://www.jiuwa.net/ywzm/
+  img: /img/jiuwa.png
+  description: 可用在一些社交平台的昵称和简介里
+- name: RTranslator
+  url: https://github.com/niedev/RTranslator
+  img: /img/RTranslator.png
+  description: 在本地运行的适用于 Android 的开源实时翻译应用程序
+- name: xiaoju-survey
+  url: https://github.com/didi/xiaoju-survey
+  img: /img/xiaoju-survey.jpg
+  description: 提供企业级调研服务，「快速」打造「专属」问卷系统, 让调研「更轻松」
+- name: ncmdump
+  url: https://github.com/taurusxin/ncmdump
+  img: /img/ncmdump.png
+  description: 转换网易云音乐 ncm 到 mp3 / flac
+- name: EasySpider
+  url: https://github.com/NaiboWang/EasySpider
+  img: /img/EasySpider.jfif
+  description: 一个可视化浏览器自动化测试/数据采集/爬虫软件
+- name: FluentRead
+  url: https://github.com/Bistutu/FluentRead
+  img: /img/FluentRead.jfif
+  description: 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验
+- name: my-tv
+  url: https://github.com/lizongying/my-tv
+  img: /img/my-tv.jfif
+  description: 电视直播软件，安装即可使用
+- name: EarTrumpet
+  url: https://github.com/File-New-Project/EarTrumpet
+  img: /img/EarTrumpet.png
+  description: 在 Windows 上调整每个应用的音量
+- name: Fluent Reader
+  url: https://github.com/yang991178/fluent-reader
+  img: /img/fluent-reader.png
+  description: 现代桌面 RSS 阅读器
+- name: 域名百科
+  url: https://dotwiki.com/
+  img: /img/dotwiki.ico
+  description: 域名百科
+- name: 哪煮米
+  url: https://www.nazhumi.com/
+  img: /img/哪煮米.ico
+  description: 全网域名,一站比价
+- name: cobalt
+  url: https://github.com/imputnet/cobalt
+  img: /img/cobalt.png
+  description: 音视频资源下载器,支持国内外几乎所有网站
+- name: SQLYNX
+  url: https://www.sqlynx.com/
+  img: /img/SQLYNX.svg
+  description: WEB 和桌面 SQL 编辑器
+- name: KasmVNC
+  url: https://github.com/kasmtech/KasmVNC
+  img: /img/KasmVNC.jpg
+  description: 一个远程桌面的 VNC 软件，不需要客户端，只要服务器安装后，就可以通过浏览器访问
+- name: openalternative
+  url: https://openalternative.co/
+  img: /img/openalternative.ico
+  description: 查询软件的开源平替
+- name: alternativeto
+  url: https://alternativeto.net/
+  img: /img/alternativeto.ico
+  description: 查询软件的替代品，与上一个类似
+- name: mikufans录播姬
+  url: https://github.com/BililiveRecorder/BililiveRecorder
+  img: /img/BililiveRecorder.png
+  description: 录播姬 | mikufans 生放送录制
+- name: biliup
+  url: https://github.com/biliup/biliup
+  img: 
+  description: 全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运
+- name: Ente Auth
+  url: https://ente.io/auth/
+  img: /img/ente.png
+  description: 一个开源的双因素认证码管理器
+- name: 图片盲水印查看器
+  url: http://www.atoolbox.net/Tool.php?Id=1052
+  img: /img/atoolbox.png
+  description: 查看图片各通道的最低位（LSB）信息
+- name: screen studio
+  url: https://www.screen.studio/
+  img: /img/www.screen.png
+  description: 录制演示录屏工具(Mac)
+- name: Focusee
+  url: https://gemoo.com/focusee/
+  img: /img/gemoo.ico
+  description: 录制演示录屏工具(Win)
+- name: MinerU
+  url: https://github.com/opendatalab/MinerU
+  img: /img/MinerU-logo.png
+  description: 强大的数据提取工具,将PDF,DOC等格式转换为Markdown
+- name: B站空降助手
+  url: https://github.com/hanydd/BilibiliSponsorBlock
+  img: /img/LogoSponsorBlocker256px.png
+  description: 一款跳过B站视频中恰饭片段的浏览器插件
+- name: DawnLauncher
+  url: https://github.com/fanchenio/DawnLauncher
+  img: 
+  description: Windows快捷启动工具，帮助您整理杂乱无章的桌面，分门别类管理您的桌面快捷方式，让您的桌面保持干净整洁
+- name: omnivore
+  url: https://github.com/omnivore-app/omnivore
+  img: /img/omnivore.png
+  description: 一个稍后阅读文章工具
+- name: Inbox Zero
+  url: https://github.com/elie222/inbox-zero
+  img: 
+  description: 借助AI整理收件箱 保持零邮件
+- name: screenshot-to-code
+  url: https://github.com/liseami/screenshot-to-code
+  img: 
+  description: 一个简单的工具，可使用 AI 将屏幕截图、模型和 Figma 设计转换为干净、实用的代码。现在支持 Claude Sonnet 3.5 和 GPT-4o
+- name: MusicFree
+  url: https://musicfree.catcat.work/
+  img: /img/MusicFree.png
+  description: 一个插件化的音乐播放器

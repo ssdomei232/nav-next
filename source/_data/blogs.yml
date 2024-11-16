@@ -1,0 +1,12 @@
+- name: 酷壳 – CoolShell.cn
+  url: https://coolshell.cn/
+  img: /img/CoolShell.png
+  description: 纪念陈皓
+- name: 阮一峰的个人网站
+  url: https://www.ruanyifeng.com/
+  img: /img/ruanyifeng.ico
+  description: 阮一峰的个人网站 - Ruan YiFeng's Personal Website
+- name: 电脑星人
+  url: https://imkero.net/
+  img: /img/电脑星人.jpg
+  description: 让此刻不会老

@@ -1,0 +1,24 @@
+- name: chinese-programmer-wrong-pronunciation
+  url: https://github.com/shimohq/chinese-programmer-wrong-pronunciation
+  img: /img/chinese-programmer-wrong-pronunciation.png
+  description: 中国程序员容易发音错误的单词
+- name: code-box
+  url: https://github.com/027xiguapi/code-box
+  img: /img/code-box.png
+  description: 用来解除 CSDN/知乎/脚本之家等网站的限制（比如要求登录）的开源的浏览器插件
+- name: 菜鸟教程
+  url: https://www.runoob.com/
+  img: /img/runoob.ico
+  description: 供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例，通过实例，您可以更好的学习编程
+- name: RegExr
+  url: https://regexr.com/
+  img: /img/RegExr.png
+  description: 学习,测试正则表达式
+- name: APISQL
+  url: https://apisql.cn/
+  img: /img/APISQL.ico
+  description: 轻松将内网数据库的增删改查，发布为外网可访问的HTTPS API
+- name: public-apis
+  url: https://github.com/public-apis/public-apis
+  img: /img/public-apis.png
+  description: 收集了大量公开API,有好用的,也有好玩的

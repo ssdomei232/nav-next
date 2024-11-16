@@ -1,0 +1,28 @@
+- name: Squoosh
+  url: https://github.com/GoogleChromeLabs/squoosh
+  img: /img/squoosh.webp
+  description: 直接在浏览器中使用一流的编解码器缩小图像，Google出品
+- name: screenshot.rocks
+  url: https://screenshot.rocks/
+  img: /img/screenshot.rocks.ico
+  description: 一个在线工具，可以为网页截图加上浏览器边框
+- name: HTML👉JADE/PUG
+  url: http://html2jade.org/
+  img: /img/HTML👉JADEPUG.ico
+  description: HTML👉JADE/PUG 实时在线转换网站
+- name: I❤️IMG
+  url: https://www.iloveimg.com/zh-cn
+  img: /img/I❤️IMG.png
+  description: 免费批量编辑图片工具（包括透明图片裁剪）
+- name: iconfont-阿里巴巴矢量图标库
+  url: https://www.iconfont.cn/
+  img: /img/iconfont.png
+  description: 阿里巴巴矢量图标库
+- name: Billfish素材管家
+  url: https://www.billfish.cn/
+  img: /img/Billfish.ico
+  description: 专为设计师打造的图片素材管理工具,所有功能全部免费
+- name: 全球酷站
+  url: https://matrixflip.com/discoveries/page/1
+  img: /img/全球酷站.png
+  description: 收录了大量设计惊艳的网站

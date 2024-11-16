@@ -1,0 +1,16 @@
+- name: aide
+  url: https://github.com/nicepkg/aide
+  img: /img/aide.svg
+  description: 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件
+- name: GitLens
+  url: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+  img: /img/GitLens.png
+  description: 在 VS Code 中增强 Git
+- name: Easy CodeSnap
+  url: https://marketplace.visualstudio.com/items?itemName=ArthurLobo.easy-codesnap
+  img: /img/easy-codesnap.png
+  description: 生成美观的代码截图
+- name: TODO Highlight
+  url: https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
+  img: /img/todo-highlight.png
+  description: 高亮 TODO、FIXME 等关键词,注视

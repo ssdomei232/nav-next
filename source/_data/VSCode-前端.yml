@@ -1,0 +1,24 @@
+- name: Vue 3 Snippets
+  url: https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets
+  img: /img/Vue3Snippets.jfif
+  description: Vue.js 3 和 Vue.js 2 代码片段扩展
+- name: Vue - Official
+  url: https://marketplace.visualstudio.com/items?itemName=Vue.volar
+  img: /img/Vue-Official.png
+  description: Vue 代码补全和检查
+- name: JavaScript Debugger
+  url: https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug
+  img: /img/JavaScriptDebugger.png
+  description: 将断点映射到浏览器中
+- name: Live Server
+  url: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+  img: /img/LiveServer.png
+  description: 启动一个本地 WEB 服务器
+- name: CSS Peek
+  url: https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
+  img: /img/CSSPeek.png
+  description: 根据 css 类和 id 定位到对应的文件中
+- name: Console Ninja
+  url: https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja
+  img: /img/console-ninja.png
+  description: 将 console.log 的打印显示在代码右侧

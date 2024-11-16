@@ -1,0 +1,36 @@
+- name: anti-baidu
+  url: https://github.com/lurongkai/anti-baidu
+  img: /img/anti-baidu.jpg
+  description: 如果有人通过百度搜索访问您的网站，就会弹出一个反百度对话框
+- name: Toastr
+  url: https://github.com/CodeSeven/toastr
+  img: 
+  description: 简单的 javascript Toast 通知   
+- name: Swiper
+  url: https://www.swiper.com.cn/
+  img: /img/Swiper.ico
+  description: 目前应用较广泛的移动端网页触摸内容滑动js插件
+- name: tesseract.js
+  url: https://github.com/naptha/tesseract.js
+  img: /img/tesseract.js.png
+  description: 适用于 100 多种语言的纯 Javascript OCR
+- name: nsfwjs
+  url: https://github.com/infinitered/nsfwjs
+  img: /img/nsfwjs.jpg
+  description: 鉴黄JS
+- name: driver.js
+  url: https://github.com/kamranahmedse/driver.js
+  img: /img/driver.js.svg
+  description: 精美,轻量的用户引导JS
+- name: quicklink
+  url: https://github.com/GoogleChromeLabs/quicklink
+  img: /img/quicklink.png
+  description: 在空闲时间预加载视口内链接,会增加带宽负担
+- name: Text Search Engine
+  url: https://github.com/cjinhuo/text-search-engine
+  img: /img/Text Search Engine.png.jfif
+  description: 模糊搜索库，具有中文拼音的模糊搜索等多种功能
+- name: fakeCAPTCHA
+  url: https://github.com/fucklinux/fakeCAPTCHA
+  img: /img/Text Search Engine.png.jfif
+  description: 假的人机验证组件,可自定义显示内容

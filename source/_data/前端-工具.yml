@@ -1,0 +1,48 @@
+- name: CSS可视化
+  url: https://css.bqrdh.com/
+  img: /img/css.ico
+  description: CSS可视化
+- name: CSS灵感
+  url: https://csscoco.com/inspiration/#/
+  img: /img/css-inspiration.png
+  description: 可以让你寻找到使用或者是学习 CSS 的灵感
+- name: iCSS
+  url: https://github.com/chokcoco/iCSS
+  img: /img/iCSS.jpg
+  description: 围绕 CSS/Web动画 展开，谈一些有趣的话题
+- name: icons8
+  url: https://icons8.com/
+  img: /img/icons8.svg
+  description: 免费图标工具
+- name: fontright
+  url: https://js.design/fontright?source=OMG&plan=bz
+  img: /img/fontright.ico
+  description: 字体版权工具
+- name: HTML5 UP
+  url: https://html5up.net/
+  img: /img/html5up.ico
+  description: 大量好看的免费 HTML 模板
+- name: ConvertFast UI
+  url: https://ui.convertfa.st/
+  img: 
+  description: 一个快速生成落地页的工具，可以选择落地页的常见模块
+- name: favicon.im
+  url: https://favicon.im/
+  img: /img/favicon.im.png
+  description: 下载或在网页中插入其他网站的 Favicon 图片，可以放大显示
+- name: Porn Logo Maker
+  url: https://porn-logo.com/
+  img: /img/porn-logo.png
+  description: 定制拼色 Logo 的在线工具
+- name: Penpot
+  url: https://penpot.app/
+  img: /img/penpot.ico
+  description: 一个基于 Web 的开源设计工具，Figma 的替代品
+- name: jsongenerator
+  url: https://www.jsongenerator.io/
+  img: /img/jsongenerator.ico
+  description: 生成符合要求的 Json 伪数据
+- name: JSON For You
+  url: https://github.com/loggerhead/json4u/
+  img: /img/json4u.svg
+  description: 开源的 JSON 数据的在线可视化、处理工具

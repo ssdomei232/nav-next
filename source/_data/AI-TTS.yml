@@ -1,0 +1,12 @@
+- name: ChatTTS
+  url: https://github.com/2noise/ChatTTS
+  img: /img/ChatTTS.ico
+  description: 一款适用于日常对话的生成式语音模型
+- name: GPT-SoVITS
+  url: https://github.com/RVC-Boss/GPT-SoVITS
+  img: 
+  description: 强大的少样本语音转换与语音合成Web用户界面
+- name: Bert-VITS2
+  url: https://github.com/2noise/ChatTTS
+  img: /img/Bert-VITS2.png
+  description: 强大的开源TTS模型

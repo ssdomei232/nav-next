@@ -1,0 +1,24 @@
+- name: 中国网络防火长城简史
+  url: https://blog.tsingjyujing.com/spam/gfw-history
+  img: /img/中国网络防火长城简史.avif
+  description: 中国网络防火长城简史
+- name: 科技爱好者周刊
+  url: https://github.com/ruanyf/weekly
+  img: /img/科技爱好者周刊.jfif
+  description: 科技爱好者周刊，每周五发布
+- name: 纪念陈皓（左耳朵耗子）
+  url: https://www.cnblogs.com/Solstice/p/haoel.html
+  img: /img/纪念陈皓（左耳朵耗子）.webp
+  description: 纪念陈皓（左耳朵耗子）
+- name: 戒鸡瘾的办法
+  url: https://www.nodeseek.com/post-113191-1
+  img: 
+  description: pve快速配置IPv6+nat教程 && Lxc评测脚本发布，评测宿主机系统
+- name: quicklink：实现原理与给前端的启发
+  url: https://www.jianshu.com/p/7dc94efe7e2e
+  img: 
+  description: 【性能优化】quicklink：实现原理与给前端的启发
+- name: 秒开的艺术：Hexo 博客首屏耗时优化实践
+  url: https://imkero.net/posts/hexo-page-performance/
+  img: 
+  description: 秒开的艺术：Hexo 博客首屏耗时优化实践
