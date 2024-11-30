@@ -1,0 +1,324 @@
+# 设计
+- name: Squoosh
+  url: https://github.com/GoogleChromeLabs/squoosh
+  description: 直接在浏览器中使用一流的编解码器缩小图像，Google出品
+  subcategory: 设计
+- name: screenshot.rocks
+  url: https://screenshot.rocks/
+  description: 一个在线工具，可以为网页截图加上浏览器边框
+  subcategory: 设计
+- name: HTML👉JADE/PUG
+  url: http://html2jade.org/
+  description: HTML👉JADE/PUG 实时在线转换网站
+  subcategory: 设计
+- name: I❤️IMG
+  url: https://www.iloveimg.com/zh-cn
+  description: 免费批量编辑图片工具（包括透明图片裁剪）
+  subcategory: 设计
+- name: iconfont-阿里巴巴矢量图标库
+  url: https://www.iconfont.cn/
+  description: 阿里巴巴矢量图标库
+  subcategory: 设计
+- name: Billfish素材管家
+  url: https://www.billfish.cn/
+  description: 专为设计师打造的图片素材管理工具,所有功能全部免费
+  subcategory: 设计
+- name: 全球酷站
+  url: https://matrixflip.com/discoveries/page/1
+  description: 收录了大量设计惊艳的网站
+  subcategory: 设计
+- name: Canva - 可画 
+  url: https://www.canva.cn/
+  description: 封面制作网站
+  subcategory: 设计
+- name: Figma 
+  url: https://www.figma.com/
+  description: 软件原型设计网站
+  subcategory: 设计
+- name: 爱设计
+  url: https://www.isheji.com/
+  description: 在线封面设计神器
+  subcategory: 设计
+- name: Photopea 
+  url: https://www.photopea.com/
+  description: 网页版PhotoShop
+  subcategory: 设计
+- name: Brandmark
+  url: https://app.brandmark.io/v3/
+  description: Logo制作网站
+  subcategory: 设计
+- name: 绘图 Diagram
+  url: https://app.diagrams.net
+  description: 在线绘图网站
+  subcategory: 设计
+- name: ProcessOn
+  url: https://www.processon.com/
+  description: 免费在线作图，思维导图，流程图，实时协作
+  subcategory: 设计
+- name: Bilibili封面提取
+  url: https://bilicover.magecorn.com/
+  description: 通过输入B站视频链接即可在线获取封面地址
+  subcategory: 设计
+- name: Xnapper Studio
+  url: https://xnapper.com/app
+  description: 截图美化工具
+  subcategory: 设计
+- name: 第一字体转换器
+  url: http://www.diyiziti.com/
+  description: 字体转换器在线转换，艺术字体在线生成器
+  subcategory: 设计
+- name: 字体家
+  url: https://www.zitijia.com/
+  description: 一家开发书法字体网站，内含正版付费、免费字体下载，另有字体在线转换程序
+  subcategory: 设计
+
+# 素材
+- name: 影视飓风
+  url: https://www.ysjf.com/materialLibrary
+  description: 影视飓风拍摄的大量可免费商用素材
+  subcategory: 素材
+- name: Wallpaper ABYSS
+  url: https://wall.alphacoders.com
+  description: 壁纸的聚集地
+  subcategory: 素材
+- name: Pexels
+  url: https://www.pexels.com/
+  description: 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频
+  subcategory: 素材
+
+# 影音
+- name: Video file compressor
+  url: https://tools.rotato.app/compress
+  description: 强大的视频压缩工具
+  subcategory: 影音
+
+# 运维
+- name: terminal
+  url: https://github.com/microsoft/terminal
+  description: 好看且好用的终端,微软出品   
+  subcategory: 运维
+- name: Ban-Hacker-IP-Plan
+  url: https://github.com/Aabyss-Team/Ban-Hacker-IP-Plan
+  description: 国内恶意IP封禁计划，还赛博空间一片朗朗乾坤
+  subcategory: 运维
+- name: LinuxMirors
+  url: https://linuxmirrors.cn/
+  description: GNU/Linux 更换系统软件源脚本及 Docker 安装脚本
+  subcategory: 运维
+- name: lxc-toolkit
+  url: https://github.com/no-passwd/lxc-toolkit
+  description: lxc系统检测工具,用于获取lxc宿主信息
+  subcategory: 运维
+- name: docker_image_pusher
+  url: https://github.com/tech-shrimp/docker_image_pusher
+  description: 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用
+  subcategory: 运维
+- name: fscan
+  url: https://github.com/shadow1ng/fscan
+  description: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描
+  subcategory: 运维
+- name: vscan
+  url: https://github.com/veo/vscan
+  description: 网站漏洞扫描工具，帮助您快速检测网站安全隐患
+  subcategory: 运维
+- name: china-operator-ip
+  url: https://github.com/gaoyifan/china-operator-ip
+  description: 中国运营商IPv4/IPv6地址库-每日更新
+  subcategory: 运维
+- name: 1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  description: 现代化、开源的 Linux 服务器运维管理面板
+  subcategory: 运维
+- name: ddns-go
+  url: https://github.com/jeessy2/ddns-go
+  description: 简单易用的DDNS
+  subcategory: 运维
+- name: electerm
+  url: https://github.com/electerm/electerm
+  description: 开源终端/ssh/telnet/serialport/RDP/VNC/sftp客户端
+  subcategory: 运维
+- name: xterminal
+  url: https://www.xterminal.cn/
+  description: 不仅是强大的SSH工具，更提供本地控制台
+  subcategory: 运维
+- name: MegaEase
+  url: https://megaease.cn/
+  description: 开源、自主可控、低成本、高可用 Cloud Native 平台
+  subcategory: 运维
+- name: NETworkManager
+  url: https://github.com/BornToBeRoot/NETworkManager
+  description: 开源的强大网管工具
+  subcategory: 运维
+- name: Nmap
+  url: https://github.com/nmap/nmap
+  description: 网络扫描神器
+  subcategory: 运维
+- name: hackingtool
+  url: https://github.com/Z4nzu/hackingtool
+  description: 融合了各类漏洞扫描和攻击工具
+  subcategory: 运维
+- name: InternetTest Pro
+  url: https://github.com/Leo-Corporation/InternetTest
+  description: 一款Windows连接工具，功能强大
+  subcategory: 运维
+- name: pvetools
+  url: https://github.com/ivanhao/pvetools
+  description: Proxmox VE Tools 脚本（Debian 9+ 可以使用）。包括电子邮件、samba、NFS set zfs max ram、嵌套虚拟化、docker、pci passthrough等
+  subcategory: 运维
+- name: cloud_dns_exporter
+  url: https://github.com/eryajf/cloud_dns_exporter
+  description: 自动获取DNS提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为Prometheus Metrics。
+  subcategory: 运维
+
+# 网络
+- name: ZBProxy
+  url: https://github.com/layou233/ZBProxy/
+  description: 一个简单、快速、高性能的多用途 TCP 中继，主要为搭建 Hypixel 加速 IP 而开发。  
+  subcategory: 网络
+
+# 爬虫
+- name: maxun
+  url: https://github.com/getmaxun/maxun
+  description: 一款无代码网页数据提取神器
+
+# 其它
+- name: BewlyBewly
+  url: https://github.com/hakadao/BewlyBewly/
+  description: 重新设计 BiliBili 用户界面来提升用户体验
+  subcategory: 其它
+- name: DistroSea
+  url: https://distrosea.com/
+  description: 在线试用各种 Linux 发行版，它会分配一个虚拟机，浏览器里连接桌面
+  subcategory: 其它
+- name: 错别字检测
+  url: http://www.biezi.com/
+  description: 为文章检查错别字
+  subcategory: 其它
+- name: 特殊英文字体生成器
+  url: https://www.jiuwa.net/ywzm/
+  description: 可用在一些社交平台的昵称和简介里
+  subcategory: 其它
+- name: RTranslator
+  url: https://github.com/niedev/RTranslator
+  description: 在本地运行的适用于 Android 的开源实时翻译应用程序
+  subcategory: 其它
+- name: xiaoju-survey
+  url: https://github.com/didi/xiaoju-survey
+  description: 提供企业级调研服务，「快速」打造「专属」问卷系统, 让调研「更轻松」
+  subcategory: 其它
+- name: ncmdump
+  url: https://github.com/taurusxin/ncmdump
+  description: 转换网易云音乐 ncm 到 mp3 / flac
+  subcategory: 其它
+- name: EasySpider
+  url: https://github.com/NaiboWang/EasySpider
+  description: 一个可视化浏览器自动化测试/数据采集/爬虫软件
+  subcategory: 其它
+- name: FluentRead
+  url: https://github.com/Bistutu/FluentRead
+  description: 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验
+  subcategory: 其它
+- name: my-tv
+  url: https://github.com/lizongying/my-tv
+  description: 电视直播软件，安装即可使用
+  subcategory: 其它
+- name: EarTrumpet
+  url: https://github.com/File-New-Project/EarTrumpet
+  description: 在 Windows 上调整每个应用的音量
+  subcategory: 其它
+- name: Fluent Reader
+  url: https://github.com/yang991178/fluent-reader
+  description: 现代桌面 RSS 阅读器
+  subcategory: 其它
+- name: 域名百科
+  url: https://dotwiki.com/
+  description: 域名百科
+  subcategory: 其它
+- name: 哪煮米
+  url: https://www.nazhumi.com/
+  description: 全网域名,一站比价
+  subcategory: 其它
+- name: cobalt
+  url: https://github.com/imputnet/cobalt
+  description: 音视频资源下载器,支持国内外几乎所有网站
+  subcategory: 其它
+- name: SQLYNX
+  url: https://www.sqlynx.com/
+  description: WEB 和桌面 SQL 编辑器
+  subcategory: 其它
+- name: KasmVNC
+  url: https://github.com/kasmtech/KasmVNC
+  description: 一个远程桌面的 VNC 软件，不需要客户端，只要服务器安装后，就可以通过浏览器访问
+  subcategory: 其它
+- name: openalternative
+  url: https://openalternative.co/
+  description: 查询软件的开源平替
+  subcategory: 其它
+- name: alternativeto
+  url: https://alternativeto.net/
+  description: 查询软件的替代品，与上一个类似
+  subcategory: 其它
+- name: mikufans录播姬
+  url: https://github.com/BililiveRecorder/BililiveRecorder
+  description: 录播姬 | mikufans 生放送录制
+  subcategory: 其它
+- name: biliup
+  url: https://github.com/biliup/biliup
+  description: 全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运
+  subcategory: 其它
+- name: Ente Auth
+  url: https://ente.io/auth/
+  description: 一个开源的双因素认证码管理器
+  subcategory: 其它
+- name: 图片盲水印查看器
+  url: http://www.atoolbox.net/Tool.php?Id=1052
+  description: 查看图片各通道的最低位（LSB）信息
+  subcategory: 其它
+- name: screen studio
+  url: https://www.screen.studio/
+  description: 录制演示录屏工具(Mac)
+  subcategory: 其它
+- name: Focusee
+  url: https://gemoo.com/focusee/
+  description: 录制演示录屏工具(Win)
+  subcategory: 其它
+- name: MinerU
+  url: https://github.com/opendatalab/MinerU
+  description: 强大的数据提取工具,将PDF,DOC等格式转换为Markdown
+  subcategory: 其它
+- name: B站空降助手
+  url: https://github.com/hanydd/BilibiliSponsorBlock
+  description: 一款跳过B站视频中恰饭片段的浏览器插件
+  subcategory: 其它
+- name: DawnLauncher
+  url: https://github.com/fanchenio/DawnLauncher
+  description: Windows快捷启动工具，帮助您整理杂乱无章的桌面，分门别类管理您的桌面快捷方式，让您的桌面保持干净整洁
+  subcategory: 其它
+- name: omnivore
+  url: https://github.com/omnivore-app/omnivore
+  description: 一个稍后阅读文章工具
+  subcategory: 其它
+- name: Inbox Zero
+  url: https://github.com/elie222/inbox-zero
+  description: 借助AI整理收件箱 保持零邮件
+  subcategory: 其它
+- name: screenshot-to-code
+  url: https://github.com/liseami/screenshot-to-code
+  description: 一个简单的工具，可使用 AI 将屏幕截图、模型和 Figma 设计转换为干净、实用的代码。现在支持 Claude Sonnet 3.5 和 GPT-4o
+  subcategory: 其它
+- name: MusicFree
+  url: https://musicfree.catcat.work/
+  description: 一个插件化的音乐播放器
+  subcategory: 其它
+- name: yt-dlp
+  url: https://musicfree.catcat.work/
+  description: 覆盖数千平台的影音下载工具
+  subcategory: 其它
+- name: code-box
+  url: https://github.com/027xiguapi/code-box
+  description: 用来解除 CSDN/知乎/脚本之家等网站的限制（比如要求登录）的开源的浏览器插件
+  subcategory: 其它
+- name: RegExr
+  url: https://regexr.com/
+  description: 学习,测试正则表达式
+  subcategory: 其它
