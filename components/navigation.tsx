@@ -2,8 +2,9 @@
 
 import { Input } from "@/components/ui/input"
 import { ScrollArea } from "@/components/ui/scroll-area"
-import { ChevronDown, ChevronRight } from 'lucide-react'
+import { ChevronDown, ChevronRight, Menu } from 'lucide-react'
 import { useEffect, useState } from "react"
+import { Button } from "@/components/ui/button"
 
 type NavItem = {
   name: string
@@ -20,18 +21,19 @@ type CategoryData = {
   [key: string]: SubCategory[]
 }
 
-export function Navigation() {
+export default function Component() {
   const [searchTerm, setSearchTerm] = useState("")
   const [activeCategory, setActiveCategory] = useState("all")
   const [activeSubCategory, setActiveSubCategory] = useState("all")
   const [data, setData] = useState<CategoryData>({})
   const [filteredItems, setFilteredItems] = useState<NavItem[]>([])
   const [expandedCategories, setExpandedCategories] = useState<string[]>([])
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false)
 
   useEffect(() => {
     async function loadData() {
       try {
-        const response = await fetch('/api/load-yaml-data');
+        const response = await fetch('https://aps.icu/api/load-yaml-data');
         const yamlData = await response.json();
         setData(yamlData);
       } catch (error) {
@@ -73,12 +75,20 @@ export function Navigation() {
   }
 
   return (
-    <div className="flex h-screen bg-gray-100 dark:bg-gray-900">
+    <div className="flex flex-col lg:flex-row h-screen bg-gray-100 dark:bg-gray-900">
+      <Button
+        className="lg:hidden fixed top-4 left-4 z-20"
+        size="icon"
+        variant="outline"
+        onClick={() => setIsSidebarOpen(!isSidebarOpen)}
+      >
+        <Menu className="h-4 w-4" />
+      </Button>
       {/* Left Sidebar Navigation */}
-      <aside className="w-64 bg-white dark:bg-gray-800 shadow-md overflow-y-auto">
+      <aside className={`w-full lg:w-64 bg-white dark:bg-gray-800 shadow-md overflow-y-auto h-64 lg:h-full ${isSidebarOpen ? 'block' : 'hidden'} lg:block fixed lg:static top-0 left-0 right-0 z-10`}>
         <ScrollArea className="h-full">
           <nav className="p-4">
-            <h2 className="text-lg font-semibold mb-4 text-gray-700 dark:text-gray-200">APS NAV</h2>
+            <h2 className="text-lg font-semibold mb-4 text-gray-700 dark:text-gray-200">分类</h2>
             <button
               onClick={() => {
                 setActiveCategory("all")
@@ -124,11 +134,11 @@ export function Navigation() {
       </aside>
 
       {/* Main Content */}
-      <main className="flex-1 overflow-y-auto p-8">
+      <main className="flex-1 overflow-y-auto p-4 lg:p-8">
         {/* Search Bar */}
-        <div className="mb-8">
+        <div className="mb-4 lg:mb-8">
           <Input
-            className="w-full max-w-md mx-auto"
+            className="w-full max-w-full lg:max-w-md mx-auto"
             placeholder="搜索项目..."
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
@@ -136,7 +146,7 @@ export function Navigation() {
         </div>
 
         {/* Items Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-6">
           {filteredItems.map((item) => (
             <a
               key={item.name}
@@ -145,7 +155,7 @@ export function Navigation() {
               rel="noopener noreferrer"
               className="block overflow-hidden rounded-lg border bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 shadow-md transition-all hover:shadow-lg p-6"
             >
-              <h3 className="text-lg font-semibold mb-2">{item.name}</h3>
+              <h3 className="text-base lg:text-lg font-semibold mb-2">{item.name}</h3>
               <p className="text-sm text-gray-600 dark:text-gray-300">{item.description}</p>
             </a>
           ))}
