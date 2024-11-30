@@ -19,3 +19,9 @@
 - name: debian-media-box
   url: https://github.com/moesoha/debian-media-box
   description: “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
+- name: 食用手册
+  url: https://github.com/YunYouJun/cook
+  description: 🍲 好的，今天我们来做菜！
+- name: GitHub 收据
+  url: https://gitreceipt.vercel.app/
+  description: 基于 GitHub 个人页面的公开数据生成一张收据风格的数据汇总
