@@ -25,3 +25,6 @@
 - name: GitHub 收据
   url: https://gitreceipt.vercel.app/
   description: 基于 GitHub 个人页面的公开数据生成一张收据风格的数据汇总
+- name: 极客漫画
+  url: https://turnoff.us/all/
+  description: 有趣的编程漫画

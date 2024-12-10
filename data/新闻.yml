@@ -1,0 +1,49 @@
+# 科技
+- name: 蓝点网
+  url: https://www.landiannews.com/
+  description: 科技，软件资讯
+  subcategory: 科技
+- name: The Verge
+  url: https://www.theverge.com/
+  description: 家美国科技媒体网站,成立于2011年11月1日,提供新闻、产品评论、播客、视频等内容
+  subcategory: 科技
+- name: The Register
+  url: https://www.theregister.com/
+  description: 一家英国的科技新闻网站,于1994年创建
+  subcategory: 科技
+- name: The New Stack
+  url: https://thenewstack.io/
+  description: DevOps,开源,云原生新闻
+  subcategory: 科技
+- name: Phoronix
+  url: https://www.phoronix.com/
+  description: Linux硬件评论和性能基准测试,开源新闻
+  subcategory: 科技
+- name: Sonatype
+  url: https://www.sonatype.com/blog
+  description: 发现有关 DevOps、应用程序安全、软件创新、漏洞、软件供应链管理、SBOM 和 Sonatype 产品的宝贵见解
+  subcategory: 科技
+- name: Tom's Hardware
+  url: https://www.tomshardware.com/
+  description: 软件，硬件，科技资讯
+  subcategory: 科技
+- name: 9to5linux
+  url: https://9to5linux.com/
+  description: Linux 新闻、评论、教程等
+  subcategory: 科技
+- name: BleepingComputer
+  url: https://www.bleepingcomputer.com/
+  description: 网络安全、技术新闻和支持
+  subcategory: 科技
+- name: IT 之家
+  url: https://it.ithome.com/
+  description: 国内科技新闻
+  subcategory: 科技
+- name: SC media
+  url: https://www.scworld.com/
+  description: SC 杂志
+  subcategory: 科技
+- name: Help Net Security
+  url: https://www.helpnetsecurity.com/
+  description: 网络安全资讯
+  subcategory: 科技
