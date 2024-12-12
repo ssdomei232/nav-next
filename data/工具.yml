@@ -91,6 +91,10 @@
   url: https://tools.rotato.app/compress
   description: 强大的视频压缩工具
   subcategory: 影音
+- name: Netease_url
+  url: https://github.com/Suxiaoqinx/Netease_url
+  description: 网易云无损解析
+  subcategory: 影音
 
 # 运维
 - name: terminal
