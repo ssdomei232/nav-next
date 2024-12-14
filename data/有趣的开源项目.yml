@@ -1,75 +1,111 @@
+# 工具与实用程序
 - name: telegraph
   url: https://github.com/0-RTT/telegraph
   description: 基于telegraph的图床，图片大于5MB自动压缩 
+  subcategory: 工具与实用程序
 - name: newredlens
   url: https://github.com/CQUPTMirror/newredlens
   description: 好看的开源软件镜像站前端
+  subcategory: 工具与实用程序
 - name: LookingGlass
   url: https://github.com/telephone/LookingGlass
   description: 适合云服务商展示服务器线路的PHP项目 
+  subcategory: 工具与实用程序
 - name: Page Replica
   url: https://github.com/Page-Replica/page-replica
   description: 架设一个缓存网站,可以抓取其他网站和网页,建立一个缓存版本,通过它来中介访问
+  subcategory: 工具与实用程序
 - name: DirectoryLister
   url: https://github.com/DirectoryLister/DirectoryLister
   description: 一个Web文件浏览器，功能极其丰富
+  subcategory: 工具与实用程序
 - name: shit-url
   url: https://llili.li/
   description: 屑链生成，最屑的短链接生成站
+  subcategory: 工具与实用程序
 - name: BroadcastChannel
   url: https://github.com/ccbikai/BroadcastChannel
   description: 把你的Telegram频道变成一个微博,无需服务器
+  subcategory: 工具与实用程序
 - name: OpenGFW
   url: https://github.com/apernet/OpenGFW
   description: 可以部署在家用路由器上的网络主权 - 你也能是老大哥
-- name: heyform
-  url: https://github.com/heyform/heyform
-  description: 一个开源表单构建器，允许任何人为调查、问卷、测验和民意调查创建引人入胜的对话表单
-- name: Minecraft-Server-Ports-Scanner-GUI
-  url: https://github.com/hite4044/Minecraft-Server-Ports-Scanner-GUI
-  description: 扫描服务器上所有的MC服务器，并使用GUI显示几乎所有信息
-- name: ente
-  url: https://github.com/ente-io/ente
-  description: 完全开源，端到端加密的Google照片和Apple Photos替代品
-- name: 文件快递柜
-  url: https://github.com/vastsa/FileCodeBox
-  description: 匿名口令分享文本，文件，像拿快递一样取文件
-- name: Docker-OSX
-  url: https://github.com/sickcodes/Docker-OSX
-  description: 快速使用 Docker 启动一个 MacOS
-- name: devzat
-  url: https://github.com/quackduck/devzat
-  description: 程序员专属 SSH 聊天室
-- name: synctv
-  url: https://github.com/synctv-org/synctv
-  description: 一个可以远程一起看电影/直播的程序,目前存在严重的xss注入漏洞
-- name: inter-knot
-  url: https://github.com/share121/inter-knot
-  description: 绳网
-- name: frpc-desktop
-  url: https://github.com/luckjiawei/frpc-desktop
-  description: 一个frpc桌面客户端
-- name: AsmBB
-  url: https://asmbb.org/
-  description: 一个使用汇编语言写的论坛应用，性能很强，对机器配置的要求很低
+  subcategory: 工具与实用程序
+
+# Web开发与前端
 - name: Coolify
   url: https://github.com/coollabsio/coolify
   description: 开源的应用运行平台，相当于自己搭建一个 Heroku / Netlify / Vercel 替代品，各种应用可以轻松在上面运行
-- name: Marsview
-  url: https://github.com/JackySoft/marsview
-  description: 一款面向后台的低代码可视化搭建平台，快速搭建中后台管理系统
-- name: Class-Widgets
-  url: https://github.com/RinLit-233-shiroko/Class-Widgets
-  description: 提供了易用课程表编辑和美观的桌面组件
+  subcategory: Web开发与前端
 - name: socialify
   url: https://github.com/wei/socialify
   description: 以图片展示 Github 项目的数据
-- name: WebChat
-  url: https://github.com/molvqingtai/WebChat
-  description: 一个去中心化、无服务器的匿名聊天浏览器扩展程序
+  subcategory: Web开发与前端
+- name: Class-Widgets
+  url: https://github.com/RinLit-233-shiroko/Class-Widgets
+  description: 提供了易用课程表编辑和美观的桌面组件
+  subcategory: Web开发与前端
+- name: Marsview
+  url: https://github.com/JackySoft/marsview
+  description: 一款面向后台的低代码可视化搭建平台，快速搭建中后台管理系统
+  subcategory: Web开发与前端
+
+# 服务器与后端
+- name: Minecraft-Server-Ports-Scanner-GUI
+  url: https://github.com/hite4044/Minecraft-Server-Ports-Scanner-GUI
+  description: 扫描服务器上所有的MC服务器，并使用GUI显示几乎所有信息
+  subcategory: 服务器与后端
+- name: Docker-OSX
+  url: https://github.com/sickcodes/Docker-OSX
+  description: 快速使用 Docker 启动一个 MacOS
+  subcategory: 服务器与后端
+- name: frpc-desktop
+  url: https://github.com/luckjiawei/frpc-desktop
+  description: 一个frpc桌面客户端
+  subcategory: 服务器与后端
 - name: IPTV电视直播源更新工具
   url: https://github.com/Guovin/TV
   description: 自定义频道菜单，根据模板频道，自动获取并更新最新的直播源接口，测速校验后生成可用的接口文件
+  subcategory: 服务器与后端
+
+# 加密与隐私
+- name: ente
+  url: https://github.com/ente-io/ente
+  description: 完全开源，端到端加密的Google照片和Apple Photos替代品
+  subcategory: 加密与隐私
+- name: 文件快递柜
+  url: https://github.com/vastsa/FileCodeBox
+  description: 匿名口令分享文本，文件，像拿快递一样取文件
+  subcategory: 加密与隐私
+
+# 社区与协作
+- name: devzat
+  url: https://github.com/quackduck/devzat
+  description: 程序员专属 SSH 聊天室
+  subcategory: 社区与协作
+- name: synctv
+  url: https://github.com/synctv-org/synctv
+  description: 一个可以远程一起看电影/直播的程序,目前存在严重的xss注入漏洞
+  subcategory: 社区与协作
+- name: WebChat
+  url: https://github.com/molvqingtai/WebChat
+  description: 一个去中心化、无服务器的匿名聊天浏览器扩展程序
+  subcategory: 社区与协作
+
+# 其他
+- name: AsmBB
+  url: https://asmbb.org/
+  description: 一个使用汇编语言写的论坛应用，性能很强，对机器配置的要求很低
+  subcategory: 其他
 - name: public-apis
   url: https://github.com/public-apis/public-apis
   description: 收集了大量公开API,有好用的,也有好玩的
+  subcategory: 其他
+- name: heyform
+  url: https://github.com/heyform/heyform
+  description: 一个开源表单构建器，允许任何人为调查、问卷、测验和民意调查创建引人入胜的对话表单
+  subcategory: 其他
+- name: inter-knot
+  url: https://github.com/share121/inter-knot
+  description: 绳网
+  subcategory: 其他
