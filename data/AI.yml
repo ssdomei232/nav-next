@@ -115,3 +115,7 @@
   url: https://github.com/facefusion/facefusion
   description: AI 换脸工具
   subcategory: 图像影音
+- name: upscayl
+  url: https://github.com/upscayl/upscayl
+  description: 图像超分算法
+  subcategory: 图像影音

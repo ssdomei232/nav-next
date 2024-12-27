@@ -326,3 +326,7 @@
   url: https://regexr.com/
   description: 学习,测试正则表达式
   subcategory: 其它
+- name: Umi-OCR
+  url: https://github.com/hiroi-sora/Umi-OCR
+  description: 强大的 OCR 工具
+  subcategory: 其它

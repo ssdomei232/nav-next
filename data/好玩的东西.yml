@@ -31,3 +31,9 @@
 - name: IMG_0001 未经剪辑的生活片段
   url: https://walzr.com/IMG_0001
   description: 2009 年至 2012 年期间，iPhone 的照片应用中有一个内置的“发送至 YouTube”按钮。许多上传的视频都保留了默认的 IMG_XXXX 文件名，从而创建了一个时间胶囊，里面记录了随机生活中未经编辑的原始瞬间。这个网站爬取了500万个这种视频，展现那个时代鬼佬们的生活。大多视频杂乱无章了无生趣并且模糊的厉害，但也有相当部分真实可爱，有强烈那个时代的烙印。
+- name: github-contributions
+  url: https://postspark.app/github-contributions
+  description: 生成一张美观的,高度自定义的 Github 贡献表
+- name: MarkItDown
+  url: https://github.com/microsoft/markitdown
+  description: 将多种格式文件转换为Markdown，支持PDF、PPTX、DOCX、XLSX、图片及音频等不同文件类型,能够提取图像及音频的EXIF元数据进行识别，并利用OCR及语音转录等技术，简化并加速转换流程
