@@ -1,0 +1,12 @@
+- name: 图片压缩
+  url: /tools/Compressor
+  description: 简洁的图片压缩工具
+  subcategory: 其它
+- name: 哈希随机抽取
+  url: /tools/hash-random
+  description: 逐一比较每个参与者的哈希值与种子的哈希值,通过计算它们之间的相似度，找出与种子值最接近的参与者
+  subcategory: 其它
+- name: 扩展昵称生成器
+  url: /tools/CatgirlGenerator
+  description: 当别人@你时，会在@的文字后面加上一另段文字
+  subcategory: 其它

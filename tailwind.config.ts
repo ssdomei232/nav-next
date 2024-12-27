@@ -9,6 +9,14 @@ const config: Config = {
   ],
   theme: {
   	extend: {
+		backgroundColor: {
+		  'dark-primary': '#1a202c',
+		  'dark-secondary': '#2d3748',
+		},
+		textColor: {
+		  'dark-primary': '#e2e8f0',
+		  'dark-secondary': '#a0aec0',
+		},
   		colors: {
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',

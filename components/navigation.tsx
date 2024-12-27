@@ -33,7 +33,7 @@ export default function Component() {
   useEffect(() => {
     async function loadData() {
       try {
-        const response = await fetch('https://aps.icu/api/load-yaml-data');
+        const response = await fetch('/api/load-yaml-data');
         const yamlData = await response.json();
         setData(yamlData);
       } catch (error) {
