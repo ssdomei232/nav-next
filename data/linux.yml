@@ -5,8 +5,8 @@
   subcategory: 应用适配
 - name: linux-wallpaperengine
   url: https://github.com/Almamu/linux-wallpaperengine
-  description: 专注Linux应用适配的应用商店
-  subcategory: 适用于 Linux 的 Wallpaper Engine 背景！
+  description: 适用于 Linux 的 Wallpaper Engine 背景！
+  subcategory: 应用适配
 
 # 外设驱动
 - name: logiops
