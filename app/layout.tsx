@@ -14,9 +14,9 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "APS NAV - https://aps.icu",
-  description: "APS NAV",
-  keywords: ['APS NAV', '导航', 'APS', 'mei', 'linuxcat', 'linuxcat周刊', '开源', '软件', '分享', '推荐'],
+  title: "Linuxcat NAV - https://nav.linuxcat.top",
+  description: "Linuxcat NAV",
+  keywords: ['Linuxcat NAV', '导航', 'mei', 'linuxcat', 'linuxcat周刊', '开源', '软件', '分享', '推荐'],
   authors: [{ name: 'mei' }],
   creator: 'mei',
   publisher: 'mei',
