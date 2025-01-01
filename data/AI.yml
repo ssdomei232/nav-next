@@ -20,24 +20,28 @@
 
 # 大语言模型
 - name: bilibot
-  img: /img/bilibot.jfif
+  url: https://github.com/linyiLYi/bilibot
   description: 由哔哩哔哩用户评论微调训练而成的本地聊天机器人
   subcategory: 大语言模型
 - name: ChatGLM3
-  img: /img/ChatGLM3.png
+  url: https://github.com/THUDM/ChatGLM3
   description: 开源双语对话语言模型,智谱AI和清华大学 KEG 实验室联合发布
   subcategory: 大语言模型
 - name: GLM-4
-  img: /img/GLM-4.png
+  url: https://github.com/THUDM/GLM-4
   description: 开源多语言多模态对话模型,智谱 AI 推出
   subcategory: 大语言模型
 - name: Ask Many AI
-  img: /img/askmanyai.ico
+  url: https://www.askmanyai.cn/
   description: 同时向多种模型提问
   subcategory: 大语言模型
 - name: petercat
-  img: /img/petercat.png
+  url: https://github.com/petercat-ai/petercat
   description: 为自己的 GitHub 仓库一键创建智能答疑机器人
+  subcategory: 大语言模型
+- name: anything-llm
+  url: https://github.com/Mintplex-Labs/anything-llm
+  description: 一个全栈应用程序，可以将任何文档、资源（如网址链接、音频、视频）或内容片段转换为上下文，以便任何大语言模型（LLM）在聊天期间作为参考使用
   subcategory: 大语言模型
 
 # 其它
@@ -68,6 +72,10 @@
 - name: PDFMathTranslate
   url: https://github.com/Byaidu/PDFMathTranslate
   description: 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
+  subcategory: 其它
+- name: postiz-app
+  url: https://github.com/gitroomhq/postiz-app
+  description: Postiz 提供您管理社交媒体帖子、建立受众群体、获取潜在客户和发展业务所需的一切
   subcategory: 其它
 
 # 图像影音

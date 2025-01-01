@@ -109,3 +109,7 @@
   url: https://github.com/share121/inter-knot
   description: 绳网
   subcategory: 其他
+- name: libcimbar
+  url: https://github.com/sz3/libcimbar
+  description: 使用动态的二维码来传输数据
+  subcategory: 其他

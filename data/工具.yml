@@ -173,6 +173,10 @@
   url: https://github.com/eryajf/cloud_dns_exporter
   description: 自动获取DNS提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为Prometheus Metrics。
   subcategory: 运维
+- name: DevOps-Bash-tools
+  url: https://github.com/HariSekhon/DevOps-Bash-tools
+  description: 自动化 DevOps 脚本合集
+  subcategory: 运维
 
 # 网络
 - name: ZBProxy
@@ -329,4 +333,8 @@
 - name: Umi-OCR
   url: https://github.com/hiroi-sora/Umi-OCR
   description: 强大的 OCR 工具
+  subcategory: 其它
+- name: MarkItDown
+  url: https://github.com/microsoft/markitdown
+  description: 将多种格式文件转换为Markdown，支持PDF、PPTX、DOCX、XLSX、图片及音频等不同文件类型,能够提取图像及音频的EXIF元数据进行识别，并利用OCR及语音转录等技术，简化并加速转换流程
   subcategory: 其它
