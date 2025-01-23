@@ -85,3 +85,7 @@
   url: https://github.com/fucklinux/fakeCAPTCHA
   description: 假的人机验证组件,可自定义显示内容
   subcategory: Javascript库
+- name: marked
+  url: https://github.com/markedjs/marked
+  description: 在前端渲染 Markdown
+  subcategory: Javascript库

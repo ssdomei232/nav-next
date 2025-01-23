@@ -77,6 +77,10 @@
   url: https://github.com/gitroomhq/postiz-app
   description: Postiz 提供您管理社交媒体帖子、建立受众群体、获取潜在客户和发展业务所需的一切
   subcategory: 其它
+- name: bolt
+  url: https://bolt.new/
+  description: AI 开发工具,v0的竞品
+  subcategory: 其它
 
 # 图像影音
 - name: IC-Light
