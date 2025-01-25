@@ -91,6 +91,10 @@
   url: https://github.com/molvqingtai/WebChat
   description: 一个去中心化、无服务器的匿名聊天浏览器扩展程序
   subcategory: 社区与协作
+- name: linyu-mini
+  url: https://linyu.chat/
+  description: 一款支持多端的 开源聊天系统 ，涵盖桌面端和移动端等多种平台
+  subcategory: 社区与协作
 
 # 其他
 - name: AsmBB
@@ -112,4 +116,8 @@
 - name: libcimbar
   url: https://github.com/sz3/libcimbar
   description: 使用动态的二维码来传输数据
+  subcategory: 其他
+- name: gpt4-captcha-bypass
+  url: https://github.com/aydinnyunus/gpt4-captcha-bypass
+  description: 使用 GPT-4o通过图像验证码
   subcategory: 其他

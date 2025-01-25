@@ -55,10 +55,6 @@
   url: https://www.processon.com/
   description: 免费在线作图，思维导图，流程图，实时协作
   subcategory: 设计
-- name: Bilibili封面提取
-  url: https://bilicover.magecorn.com/
-  description: 通过输入B站视频链接即可在线获取封面地址
-  subcategory: 设计
 - name: Xnapper Studio
   url: https://xnapper.com/app
   description: 截图美化工具
@@ -181,23 +177,52 @@
   url: https://github.com/netcccyun/dnsmgr
   description: 聚合DNS管理系统可以实现在一个网站内管理多个平台的域名解析
   subcategory: 运维
+- name: certimate
+  url: https://github.com/usual2970/certimate
+  description: 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期
+  subcategory: 运维
+- name: memoryCheck
+  url: https://github.com/uselibrary/memoryCheck
+  description: 检查 VPS 的内存是否超卖
+  subcategory: 运维
+- name: tianji
+  url: https://github.com/msgbyte/tianji
+  description: 洞察一切，网站分析 + 正常运行时间监控 + 服务器状态
+  subcategory: 运维
+- name: w7panel
+  url: https://github.com/w7corp/w7panel
+  description: 一款基于Kubernetes的云原生控制面板
+  subcategory: 运维
+- name: dpanel
+  url: https://github.com/donknap/dpanel
+  description: 轻量化 docker 可视化管理面板
+  subcategory: 运维
+- name: SecLists
+  url: https://github.com/danielmiessler/SecLists
+  description: 敏感数据列表
+  subcategory: 运维
 
 # 网络
 - name: ZBProxy
   url: https://github.com/layou233/ZBProxy/
   description: 一个简单、快速、高性能的多用途 TCP 中继，主要为搭建 Hypixel 加速 IP 而开发。  
   subcategory: 网络
+- name: Sheas-Cealer
+  url: https://github.com/SpaceTimee/Sheas-Cealer
+  description: Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)  
+  subcategory: 网络
 
 # 爬虫
 - name: maxun
   url: https://github.com/getmaxun/maxun
   description: 一款无代码网页数据提取神器
+  subcategory: 爬虫
+- name: sherlock
+  url: https://github.com/sherlock-project/sherlock
+  description: 在社交网络中按用户名寻找社交媒体帐户
+  subcategory: 爬虫
 
 # 其它
-- name: BewlyBewly
-  url: https://github.com/hakadao/BewlyBewly/
-  description: 重新设计 BiliBili 用户界面来提升用户体验
-  subcategory: 其它
 - name: DistroSea
   url: https://distrosea.com/
   description: 在线试用各种 Linux 发行版，它会分配一个虚拟机，浏览器里连接桌面
@@ -270,14 +295,6 @@
   url: https://alternativeto.net/
   description: 查询软件的替代品，与上一个类似
   subcategory: 其它
-- name: mikufans录播姬
-  url: https://github.com/BililiveRecorder/BililiveRecorder
-  description: 录播姬 | mikufans 生放送录制
-  subcategory: 其它
-- name: biliup
-  url: https://github.com/biliup/biliup
-  description: 全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运
-  subcategory: 其它
 - name: Ente Auth
   url: https://ente.io/auth/
   description: 一个开源的双因素认证码管理器
@@ -297,10 +314,6 @@
 - name: MinerU
   url: https://github.com/opendatalab/MinerU
   description: 强大的数据提取工具,将PDF,DOC等格式转换为Markdown
-  subcategory: 其它
-- name: B站空降助手
-  url: https://github.com/hanydd/BilibiliSponsorBlock
-  description: 一款跳过B站视频中恰饭片段的浏览器插件
   subcategory: 其它
 - name: DawnLauncher
   url: https://github.com/fanchenio/DawnLauncher
@@ -341,4 +354,16 @@
 - name: MarkItDown
   url: https://github.com/microsoft/markitdown
   description: 将多种格式文件转换为Markdown，支持PDF、PPTX、DOCX、XLSX、图片及音频等不同文件类型,能够提取图像及音频的EXIF元数据进行识别，并利用OCR及语音转录等技术，简化并加速转换流程
+  subcategory: 其它
+- name: DockerHub 国内加速镜像列表
+  url: https://github.com/dongyubin/DockerHub
+  description: DockerHub 国内加速镜像列表
+  subcategory: 其它
+- name: gkd
+  url: https://github.com/gkd-kit/gkd
+  description: 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用
+  subcategory: 其它
+- name: httrack
+  url: https://github.com/xroche/httrack
+  description: 网站复印机，将网站复制到您的计算机
   subcategory: 其它

@@ -1,0 +1,31 @@
+# 工具
+- name: Bilibili封面提取
+  url: https://bilicover.magecorn.com/
+  description: 通过输入B站视频链接即可在线获取封面地址
+  subcategory: 工具
+- name: mikufans录播姬
+  url: https://github.com/BililiveRecorder/BililiveRecorder
+  description: 录播姬 | mikufans 生放送录制
+  subcategory: 工具
+- name: biliup
+  url: https://github.com/biliup/biliup
+  description: 全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运
+  subcategory: 工具
+
+# 插件
+- name: BewlyBewly
+  url: https://github.com/hakadao/BewlyBewly/
+  description: 重新设计 BiliBili 用户界面来提升用户体验
+  subcategory: 插件
+- name: B站空降助手
+  url: https://github.com/hanydd/BilibiliSponsorBlock
+  description: 一款跳过B站视频中恰饭片段的浏览器插件
+  subcategory: 插件
+- name: B站用户成分查询
+  url: https://github.com/klxf/BilibiliUserChecker
+  description: B站用户成分查询
+  subcategory: 插件
+
+
+
+
