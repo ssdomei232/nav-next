@@ -10,3 +10,15 @@
   url: /tools/CatgirlGenerator
   description: 当别人@你时，会在@的文字后面加上一另段文字
   subcategory: 其它
+- name: 仓库管理器
+  url: /tools/inventory-management
+  description: 高效管理家里的众多小破烂
+  subcategory: 其它
+- name: 仓库管理器(特供版)
+  url: /tools/sp-inventory-management
+  description: 高效管理您的多仓库商品库存
+  subcategory: 其它
+- name: 检查单
+  url: /tools/checkout-list
+  description: 创建一个检查单,看看你有什么没有做
+  subcategory: 其它
