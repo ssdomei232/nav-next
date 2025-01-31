@@ -37,3 +37,9 @@
 - name: discover your X personality
   url: https://twitter.wordware.ai
   description: 输入X（Twitter）账号，看看AI怎么吐槽你,Roast 就是吐槽的内容。没收费。
+- name: 网站域名吉凶信息检测
+  url: https://www.sojson.com/mofa-jixiong.html
+  description: 网站域名吉凶信息检测
+- name: sleepy
+  url: https://github.com/wyf9/sleepy
+  description: 一个 用于视奸(bushi) 查看个人在线状态 (以及正在使用软件) 的 Flask 网站，让他人能知道你不在而不是故意吊他/她

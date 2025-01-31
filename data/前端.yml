@@ -89,3 +89,7 @@
   url: https://github.com/markedjs/marked
   description: 在前端渲染 Markdown
   subcategory: Javascript库
+- name: facesjs
+  url: https://github.com/zengm-games/facesjs
+  description: 一个生成随机卡通头像的 JS 库
+  subcategory: Javascript库

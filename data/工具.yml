@@ -211,6 +211,10 @@
   url: https://github.com/SpaceTimee/Sheas-Cealer
   description: Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)  
   subcategory: 网络
+- name: lede
+  url: https://github.com/bleach1991/lede
+  description: 一个功能很多的 OpenWRT 封装版，基于 iStoreOS
+  subcategory: 网络
 
 # 爬虫
 - name: maxun
@@ -366,4 +370,8 @@
 - name: httrack
   url: https://github.com/xroche/httrack
   description: 网站复印机，将网站复制到您的计算机
+  subcategory: 其它
+- name: noteshub
+  url: https://about.noteshub.app/
+  description: 强大的支持 Markdown 的笔记应用，支持使用 Github 来备份笔记
   subcategory: 其它

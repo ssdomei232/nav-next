@@ -121,3 +121,7 @@
   url: https://github.com/aydinnyunus/gpt4-captcha-bypass
   description: 使用 GPT-4o通过图像验证码
   subcategory: 其他
+- name: Web Archive
+  url: https://github.com/Ray-D-Song/web-archive
+  description: 网页收藏备份的 Web 应用，基于 Cloudflare Worker，数据保存在 Cloudflare
+  subcategory: 其他
