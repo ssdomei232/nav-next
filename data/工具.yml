@@ -81,6 +81,10 @@
   url: https://www.pexels.com/
   description: 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频
   subcategory: 素材
+- name: PNGFree.ai
+  url: https://pngfree.ai/
+  description: 免费的百万级 PNG 图片库
+  subcategory: 素材
 
 # 影音
 - name: Video file compressor
@@ -90,6 +94,14 @@
 - name: Netease_url
   url: https://github.com/Suxiaoqinx/Netease_url
   description: 网易云无损解析
+  subcategory: 影音
+- name: 爱幕
+  url: https://aimu.app/
+  description: 在线字幕编辑器，支持音频提取和字幕翻译，免费使用，自己部署需付费
+  subcategory: 影音
+- name: Free Open Graph Image Generator
+  url: https://og.indiehub.best/
+  description: 根据模版制作"网页分享图"（open graph）的在线工具
   subcategory: 影音
 
 # 运维
@@ -227,10 +239,6 @@
   subcategory: 爬虫
 
 # 其它
-- name: DistroSea
-  url: https://distrosea.com/
-  description: 在线试用各种 Linux 发行版，它会分配一个虚拟机，浏览器里连接桌面
-  subcategory: 其它
 - name: 错别字检测
   url: http://www.biezi.com/
   description: 为文章检查错别字
@@ -247,10 +255,6 @@
   url: https://github.com/didi/xiaoju-survey
   description: 提供企业级调研服务，「快速」打造「专属」问卷系统, 让调研「更轻松」
   subcategory: 其它
-- name: ncmdump
-  url: https://github.com/taurusxin/ncmdump
-  description: 转换网易云音乐 ncm 到 mp3 / flac
-  subcategory: 其它
 - name: EasySpider
   url: https://github.com/NaiboWang/EasySpider
   description: 一个可视化浏览器自动化测试/数据采集/爬虫软件
@@ -258,10 +262,6 @@
 - name: FluentRead
   url: https://github.com/Bistutu/FluentRead
   description: 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验
-  subcategory: 其它
-- name: my-tv
-  url: https://github.com/lizongying/my-tv
-  description: 电视直播软件，安装即可使用
   subcategory: 其它
 - name: EarTrumpet
   url: https://github.com/File-New-Project/EarTrumpet
@@ -278,18 +278,6 @@
 - name: 哪煮米
   url: https://www.nazhumi.com/
   description: 全网域名,一站比价
-  subcategory: 其它
-- name: cobalt
-  url: https://github.com/imputnet/cobalt
-  description: 音视频资源下载器,支持国内外几乎所有网站
-  subcategory: 其它
-- name: SQLYNX
-  url: https://www.sqlynx.com/
-  description: WEB 和桌面 SQL 编辑器
-  subcategory: 其它
-- name: KasmVNC
-  url: https://github.com/kasmtech/KasmVNC
-  description: 一个远程桌面的 VNC 软件，不需要客户端，只要服务器安装后，就可以通过浏览器访问
   subcategory: 其它
 - name: openalternative
   url: https://openalternative.co/
@@ -339,29 +327,9 @@
   url: https://musicfree.catcat.work/
   description: 一个插件化的音乐播放器
   subcategory: 其它
-- name: yt-dlp
-  url: https://musicfree.catcat.work/
-  description: 覆盖数千平台的影音下载工具
-  subcategory: 其它
-- name: code-box
-  url: https://github.com/027xiguapi/code-box
-  description: 用来解除 CSDN/知乎/脚本之家等网站的限制（比如要求登录）的开源的浏览器插件
-  subcategory: 其它
-- name: RegExr
-  url: https://regexr.com/
-  description: 学习,测试正则表达式
-  subcategory: 其它
 - name: Umi-OCR
   url: https://github.com/hiroi-sora/Umi-OCR
   description: 强大的 OCR 工具
-  subcategory: 其它
-- name: MarkItDown
-  url: https://github.com/microsoft/markitdown
-  description: 将多种格式文件转换为Markdown，支持PDF、PPTX、DOCX、XLSX、图片及音频等不同文件类型,能够提取图像及音频的EXIF元数据进行识别，并利用OCR及语音转录等技术，简化并加速转换流程
-  subcategory: 其它
-- name: DockerHub 国内加速镜像列表
-  url: https://github.com/dongyubin/DockerHub
-  description: DockerHub 国内加速镜像列表
   subcategory: 其它
 - name: gkd
   url: https://github.com/gkd-kit/gkd
@@ -371,7 +339,45 @@
   url: https://github.com/xroche/httrack
   description: 网站复印机，将网站复制到您的计算机
   subcategory: 其它
+
+# 开发
 - name: noteshub
   url: https://about.noteshub.app/
   description: 强大的支持 Markdown 的笔记应用，支持使用 Github 来备份笔记
-  subcategory: 其它
+  subcategory: 开发
+- name: DockerHub 国内加速镜像列表
+  url: https://github.com/dongyubin/DockerHub
+  description: DockerHub 国内加速镜像列表
+  subcategory: 开发
+- name: MarkItDown
+  url: https://github.com/microsoft/markitdown
+  description: 将多种格式文件转换为Markdown，支持PDF、PPTX、DOCX、XLSX、图片及音频等不同文件类型,能够提取图像及音频的EXIF元数据进行识别，并利用OCR及语音转录等技术，简化并加速转换流程
+  subcategory: 开发
+- name: RegExr
+  url: https://regexr.com/
+  description: 学习,测试正则表达式
+  subcategory: 开发
+- name: code-box
+  url: https://github.com/027xiguapi/code-box
+  description: 用来解除 CSDN/知乎/脚本之家等网站的限制（比如要求登录）的开源的浏览器插件
+  subcategory: 开发
+- name: SQLYNX
+  url: https://www.sqlynx.com/
+  description: WEB 和桌面 SQL 编辑器
+  subcategory: 开发
+- name: KasmVNC
+  url: https://github.com/kasmtech/KasmVNC
+  description: 一个远程桌面的 VNC 软件，不需要客户端，只要服务器安装后，就可以通过浏览器访问
+  subcategory: 开发
+- name: DistroSea
+  url: https://distrosea.com/
+  description: 在线试用各种 Linux 发行版，它会分配一个虚拟机，浏览器里连接桌面
+  subcategory: 开发
+- name: markitdown
+  url: https://github.com/microsoft/markitdown
+  description: 微软官方推出的工具，将各种格式的文件（主要是 Office 文件）转成 Markdown 格式
+  subcategory: 开发
+- name: qrframe
+  url: https://github.com/zhengkyl/qrframe
+  description: 一个定制二维码的网页工具，提供大量选项
+  subcategory: 开发

@@ -43,3 +43,6 @@
 - name: sleepy
   url: https://github.com/wyf9/sleepy
   description: 一个 用于视奸(bushi) 查看个人在线状态 (以及正在使用软件) 的 Flask 网站，让他人能知道你不在而不是故意吊他/她
+- name: AI Minecraft
+  url: https://ai-minecraft.net/zh-CN#try
+  description: Minecraft 与 AI 相结合，打造实时响应、动态生成的开放世界游戏

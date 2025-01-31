@@ -1,0 +1,23 @@
+# 阅读
+- name: Readest
+  url: https://github.com/readest/readest
+  description: 一款开源电子书阅读器，跨平台桌面应用，基于 Next.js 15和 Tauri v2
+  subcategory: 阅读
+
+# 影音
+- name: yt-dlp
+  url: https://musicfree.catcat.work/
+  description: 覆盖数千平台的影音下载工具
+  subcategory: 影音
+- name: cobalt
+  url: https://github.com/imputnet/cobalt
+  description: 音视频资源下载器,支持国内外几乎所有网站
+  subcategory: 影音
+- name: my-tv
+  url: https://github.com/lizongying/my-tv
+  description: 电视直播软件，安装即可使用
+  subcategory: 影音
+- name: ncmdump
+  url: https://github.com/taurusxin/ncmdump
+  description: 转换网易云音乐 ncm 到 mp3 / flac
+  subcategory: 影音
