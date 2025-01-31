@@ -31,6 +31,10 @@
   url: https://github.com/apernet/OpenGFW
   description: 可以部署在家用路由器上的网络主权 - 你也能是老大哥
   subcategory: 工具与实用程序
+- name: Audio Transcription
+  url: https://github.com/winterfx/Podcast-Transcription
+  description: 将播客或音频转录成文本，并给出摘要，基于 Next.js 和 OpenAI Whisper
+  subcategory: 工具与实用程序
 
 # Web开发与前端
 - name: Coolify

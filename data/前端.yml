@@ -93,3 +93,7 @@
   url: https://github.com/zengm-games/facesjs
   description: 一个生成随机卡通头像的 JS 库
   subcategory: Javascript库
+- name: barba.js
+  url: https://barba.js.org/
+  description: 让网站页面的切换产生平滑的动画效果
+  subcategory: Javascript库

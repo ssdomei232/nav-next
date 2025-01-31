@@ -22,3 +22,8 @@
   description: 中国的国际网络互联状态介绍
   subcategory: 网络
 
+# 阅读
+- name: BestBlogs.dev
+  url: https://www.bestblogs.dev/
+  description: 精选中文科技文章的阅读平台
+  subcategory: 阅读
