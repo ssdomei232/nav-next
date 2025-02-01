@@ -46,3 +46,6 @@
 - name: AI Minecraft
   url: https://ai-minecraft.net/zh-CN#try
   description: Minecraft 与 AI 相结合，打造实时响应、动态生成的开放世界游戏
+- name: AcousticKeyBoard
+  url: https://github.com/ZhuoZhuoCrayon/AcousticKeyBoard-Web
+  description: 一个 Web 应用，可以根据击键声，判断输入内容

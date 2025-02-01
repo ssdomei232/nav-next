@@ -3,6 +3,10 @@
   url: https://github.com/readest/readest
   description: 一款开源电子书阅读器，跨平台桌面应用，基于 Next.js 15和 Tauri v2
   subcategory: 阅读
+- name: Audiblez
+  url: https://github.com/santinic/audiblez
+  description: 这个工具可以将 Epub 电子书转成有声书，支持中文
+  subcategory: 阅读
 
 # 影音
 - name: yt-dlp
