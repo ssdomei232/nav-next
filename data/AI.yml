@@ -45,10 +45,6 @@
   subcategory: 大语言模型
 
 # 其它
-- name: MemFree
-  url: https://github.com/memfreeme/memfree
-  description: 一个混合 AI 搜索引擎，代码开源，可以自托管
-  subcategory: 其它
 - name: 数字生命
   url: https://github.com/zixiiu/Digital_Life_Server
   description: 极客湾的数字生命项目
@@ -57,10 +53,6 @@
   url: https://github.com/mendableai/firecrawl
   description: 将网站自动转换为LLM数据
   subcategory: 其它
-- name: Real-time-translation-typing
-  url: https://github.com/sxzxs/Real-time-translation-typing
-  description: 实时打字翻译助手
-  subcategory: 其它
 - name: RefAudioEmoTagger
   url: https://github.com/Alexw1111/RefAudioEmoTagger
   description: 一种基于Emotion2Vec的批量音频情感自动标注脚本
@@ -68,10 +60,6 @@
 - name: Crawl4AI
   url: https://github.com/unclecode/crawl4ai
   description: 开源AI网络爬虫工具,可以直接用于大语言模型和AI应用。性能快，还能输出适合大语言模型的格式，比如JSON、清理过的HTML和markdown。它还支持同时爬取多个网址，能提取所有媒体标签（图片、音频、视频），以及所有内外部链接。可以自定义用户代理，还能给网页截图，甚至在爬取之前执行自定义JavaScript。
-  subcategory: 其它
-- name: PDFMathTranslate
-  url: https://github.com/Byaidu/PDFMathTranslate
-  description: 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
   subcategory: 其它
 - name: postiz-app
   url: https://github.com/gitroomhq/postiz-app
@@ -131,3 +119,35 @@
   url: https://github.com/upscayl/upscayl
   description: 图像超分算法
   subcategory: 图像影音
+- name: screenpipe
+  url: https://github.com/mediar-ai/screenpipe
+  description: 一个开源的全天候AI屏幕和麦克风捕捉应用程序，可以自动完成一系列工作任务
+  subcategory: 图像影音
+
+# 推理训练
+- name: exo
+  url: https://github.com/exo-explore/exo
+  description: 分布式AI推理框架
+  subcategory: 推理训练
+- name: exo
+  url: https://github.com/exo-explore/exo
+  description: 分布式AI推理框架
+  subcategory: 推理训练
+
+# 工具
+- name: MemFree
+  url: https://github.com/memfreeme/memfree
+  description: 一个混合 AI 搜索引擎，代码开源，可以自托管
+  subcategory: 工具
+- name: Real-time-translation-typing
+  url: https://github.com/sxzxs/Real-time-translation-typing
+  description: 实时打字翻译助手
+  subcategory: 工具
+- name: PDFMathTranslate
+  url: https://github.com/Byaidu/PDFMathTranslate
+  description: 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
+  subcategory: 工具
+- name: minimind
+  url: https://github.com/jingyaogong/minimind
+  description: 从0训练微型语言模型
+  subcategory: 工具

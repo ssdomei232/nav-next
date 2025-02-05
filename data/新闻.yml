@@ -47,3 +47,7 @@
   url: https://www.helpnetsecurity.com/
   description: 网络安全资讯
   subcategory: 科技
+- name: Hacker News
+  url: https://news.ycombinator.com/
+  description: 技术资讯网站
+  subcategory: 科技

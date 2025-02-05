@@ -103,6 +103,10 @@
   url: https://og.indiehub.best/
   description: 根据模版制作"网页分享图"（open graph）的在线工具
   subcategory: 影音
+- name: video2x
+  url: https://github.com/k4yt3x/video2x
+  description: 视频图片超分工具
+  subcategory: 影音
 
 # 运维
 - name: terminal
@@ -212,6 +216,14 @@
 - name: SecLists
   url: https://github.com/danielmiessler/SecLists
   description: 敏感数据列表
+  subcategory: 运维
+- name: dokploy
+  url: https://github.com/Dokploy/dokploy
+  description: 自托管 PaaS 平台
+  subcategory: 运维
+- name: fd
+  url: https://github.com/sharkdp/fd
+  description: find 命令的替代品，比 find 快五倍，上手更简单，功能更强大
   subcategory: 运维
 
 # 网络

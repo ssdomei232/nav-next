@@ -53,6 +53,10 @@
   url: https://github.com/JackySoft/marsview
   description: 一款面向后台的低代码可视化搭建平台，快速搭建中后台管理系统
   subcategory: Web开发与前端
+- name: luxirty-search
+  url: https://github.com/KoriIku/luxirty-search
+  description: 一款面向后台的低代码可视化搭建平台，快速搭建中后台管理系统
+  subcategory: 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快
 
 # 服务器与后端
 - name: Minecraft-Server-Ports-Scanner-GUI
@@ -80,6 +84,10 @@
 - name: 文件快递柜
   url: https://github.com/vastsa/FileCodeBox
   description: 匿名口令分享文本，文件，像拿快递一样取文件
+  subcategory: 加密与隐私
+- name: 秋风广告规则
+  url: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+  description: 开源社区中最优秀的广告过滤器列表之一，实现了最优秀的广告拦截、隐私保护和流量节省
   subcategory: 加密与隐私
 
 # 社区与协作

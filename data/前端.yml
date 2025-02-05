@@ -47,6 +47,10 @@
   url: https://github.com/loggerhead/json4u/
   description: 开源的 JSON 数据的在线可视化、处理工具
   subcategory: 工具
+- name: Pake
+  url: https://github.com/tw93/Pake
+  description: 网页一键变APP
+  subcategory: 工具
 
 # Javascript库
 - name: anti-baidu

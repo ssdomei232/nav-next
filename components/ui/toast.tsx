@@ -1,5 +1,5 @@
 // @/components/ui/toast.tsx
-
+import React from 'react';
 // 定义 ToastProps 类型
 export interface ToastProps {
   title: string;
