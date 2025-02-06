@@ -129,9 +129,9 @@
   url: https://github.com/exo-explore/exo
   description: 分布式AI推理框架
   subcategory: 推理训练
-- name: exo
-  url: https://github.com/exo-explore/exo
-  description: 分布式AI推理框架
+- name: minimind
+  url: https://github.com/jingyaogong/minimind
+  description: 从0训练微型语言模型
   subcategory: 推理训练
 
 # 工具
@@ -146,8 +146,4 @@
 - name: PDFMathTranslate
   url: https://github.com/Byaidu/PDFMathTranslate
   description: 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
-  subcategory: 工具
-- name: minimind
-  url: https://github.com/jingyaogong/minimind
-  description: 从0训练微型语言模型
   subcategory: 工具
