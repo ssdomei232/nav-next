@@ -49,3 +49,6 @@
 - name: AcousticKeyBoard
   url: https://github.com/ZhuoZhuoCrayon/AcousticKeyBoard-Web
   description: 一个 Web 应用，可以根据击键声，判断输入内容
+- name: DualQRCode
+  url: https://github.com/zacharyreese/DualQRCode
+  description: 生成包含两个 URL 的二维码，不同角度扫描，返回的 URL 不一样
