@@ -1,0 +1,15 @@
+# 学习
+- name: Go语言圣经（中文版）
+  url: https://gopl-zh.github.io/
+  description: 《The Go Programming Language》 中文版本
+  subcategory: 学习
+- name: B站空降助手
+  url: https://github.com/chai2010/advanced-go-programming-book
+  description: Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+  subcategory: 学习
+
+# 工具
+- name: Goproxy.cn
+  url: https://goproxy.cn/
+  description: The most trusted Go module proxy in China.
+  subcategory: 工具

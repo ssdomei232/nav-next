@@ -23,10 +23,6 @@
   url: https://www.billfish.cn/
   description: 专为设计师打造的图片素材管理工具,所有功能全部免费
   subcategory: 设计
-- name: 全球酷站
-  url: https://matrixflip.com/discoveries/page/1
-  description: 收录了大量设计惊艳的网站
-  subcategory: 设计
 - name: Canva - 可画 
   url: https://www.canva.cn/
   description: 封面制作网站
@@ -66,6 +62,10 @@
 - name: 字体家
   url: https://www.zitijia.com/
   description: 一家开发书法字体网站，内含正版付费、免费字体下载，另有字体在线转换程序
+  subcategory: 设计
+- name: 链图
+  url: https://www.ruanyifeng.com/blog/2025/02/weekly-issue-339.html
+  description: 一个开源的在线工具，将网址转成一张包含二维码、网站标题和简介的图片
   subcategory: 设计
 
 # 素材
@@ -141,17 +141,9 @@
   url: https://github.com/gaoyifan/china-operator-ip
   description: 中国运营商IPv4/IPv6地址库-每日更新
   subcategory: 运维
-- name: 1Panel
-  url: https://github.com/1Panel-dev/1Panel
-  description: 现代化、开源的 Linux 服务器运维管理面板
-  subcategory: 运维
 - name: ddns-go
   url: https://github.com/jeessy2/ddns-go
   description: 简单易用的DDNS
-  subcategory: 运维
-- name: electerm
-  url: https://github.com/electerm/electerm
-  description: 开源终端/ssh/telnet/serialport/RDP/VNC/sftp客户端
   subcategory: 运维
 - name: xterminal
   url: https://www.xterminal.cn/
@@ -172,10 +164,6 @@
 - name: hackingtool
   url: https://github.com/Z4nzu/hackingtool
   description: 融合了各类漏洞扫描和攻击工具
-  subcategory: 运维
-- name: InternetTest Pro
-  url: https://github.com/Leo-Corporation/InternetTest
-  description: 一款Windows连接工具，功能强大
   subcategory: 运维
 - name: pvetools
   url: https://github.com/ivanhao/pvetools
@@ -225,6 +213,14 @@
   url: https://github.com/sharkdp/fd
   description: find 命令的替代品，比 find 快五倍，上手更简单，功能更强大
   subcategory: 运维
+- name: Timeshift
+  url: https://github.com/linuxmint/timeshift
+  description: Linux 的时光机器，定期对文件系统生成增量快照，可以返回到指定时点
+  subcategory: 运维
+- name: MoePush
+  url: https://github.com/beilunyang/moepush
+  description: 基于 NextJS + Cloudflare 的消息推送服务, 支持钉钉、企业微信、Telegram 等多种渠道
+  subcategory: 运维
 
 # 网络
 - name: ZBProxy
@@ -271,17 +267,9 @@
   url: https://github.com/NaiboWang/EasySpider
   description: 一个可视化浏览器自动化测试/数据采集/爬虫软件
   subcategory: 其它
-- name: FluentRead
-  url: https://github.com/Bistutu/FluentRead
-  description: 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验
-  subcategory: 其它
 - name: EarTrumpet
   url: https://github.com/File-New-Project/EarTrumpet
   description: 在 Windows 上调整每个应用的音量
-  subcategory: 其它
-- name: Fluent Reader
-  url: https://github.com/yang991178/fluent-reader
-  description: 现代桌面 RSS 阅读器
   subcategory: 其它
 - name: 域名百科
   url: https://dotwiki.com/
@@ -327,14 +315,6 @@
   url: https://github.com/omnivore-app/omnivore
   description: 一个稍后阅读文章工具
   subcategory: 其它
-- name: Inbox Zero
-  url: https://github.com/elie222/inbox-zero
-  description: 借助AI整理收件箱 保持零邮件
-  subcategory: 其它
-- name: screenshot-to-code
-  url: https://github.com/liseami/screenshot-to-code
-  description: 一个简单的工具，可使用 AI 将屏幕截图、模型和 Figma 设计转换为干净、实用的代码。现在支持 Claude Sonnet 3.5 和 GPT-4o
-  subcategory: 其它
 - name: MusicFree
   url: https://musicfree.catcat.work/
   description: 一个插件化的音乐播放器
@@ -372,10 +352,6 @@
 - name: code-box
   url: https://github.com/027xiguapi/code-box
   description: 用来解除 CSDN/知乎/脚本之家等网站的限制（比如要求登录）的开源的浏览器插件
-  subcategory: 开发
-- name: SQLYNX
-  url: https://www.sqlynx.com/
-  description: WEB 和桌面 SQL 编辑器
   subcategory: 开发
 - name: KasmVNC
   url: https://github.com/kasmtech/KasmVNC
