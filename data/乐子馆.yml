@@ -1,0 +1,15 @@
+- name: 乐子WIKI
+  url: https://github.com/HaHaWTH/lezi-wiki
+  description: 集百处之乐，成一家之言
+- name: 黑客百科
+  url: https://h-acker.cn/#/
+  description: 阻击者联盟，娱乐圈的组织之一，致力于收集娱乐圈的各位的事迹
+- name: LEZI 互联网乐子博物馆
+  url: https://lezi.men/
+  description: 旨在收录全网各路神仙乐子
+- name: 雨云宇宙wiki乐子馆
+  url: https://wiki.rainyun.space/laugh/laugh.html
+  description: 这里我们收集了雨云的所有乐子，希望你能在这里找到乐趣
+- name: 传奇笑料榜
+  url: https://lz.mcsl.com.cn/
+  description: 记录遇到的大大小小笑料，享受美好生活
