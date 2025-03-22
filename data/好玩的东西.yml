@@ -52,3 +52,12 @@
 - name: DualQRCode
   url: https://github.com/zacharyreese/DualQRCode
   description: 生成包含两个 URL 的二维码，不同角度扫描，返回的 URL 不一样
+- name: 这b班上得值不值·测算版
+  url: https://github.com/zippland/worth-calculator
+  description: 一个帮你计算当前工作"值不值得"的在线工具
+- name: 张维为语录查询项目
+  url: https://github.com/Cicada000/VV
+  description: 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！
+- name: Arnis
+  url: https://github.com/louis-e/arnis
+  description: 将现实世界搬进《我的世界》：开源工具 Arnis 实现高使用精度地图生成MC场景
