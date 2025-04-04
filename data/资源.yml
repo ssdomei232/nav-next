@@ -27,3 +27,9 @@
   url: https://www.bestblogs.dev/
   description: 精选中文科技文章的阅读平台
   subcategory: 阅读
+
+# 开源
+- name: HelloGitHub 月刊
+  url: https://github.com/521xueweihan/HelloGitHub
+  description: 分享 GitHub 上有趣、入门级的开源项目
+  subcategory: 开源
