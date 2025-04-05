@@ -35,6 +35,14 @@
   url: https://github.com/winterfx/Podcast-Transcription
   description: 将播客或音频转录成文本，并给出摘要，基于 Next.js 和 OpenAI Whisper
   subcategory: 工具与实用程序
+- name: hoarder
+  url: https://github.com/hoarder-app/hoarder
+  description: 一个自托管的书签应用，有 Web 端和手机端，可以用 AI 自动生成内容标签
+  subcategory: 工具与实用程序
+- name: Cover Page
+  url: https://www.coverpage.one/image
+  description: 免费的封面图制作网站
+  subcategory: 工具与实用程序
 
 # Web开发与前端
 - name: Coolify
@@ -106,6 +114,10 @@
 - name: linyu-mini
   url: https://linyu.chat/
   description: 一款支持多端的 开源聊天系统 ，涵盖桌面端和移动端等多种平台
+  subcategory: 社区与协作
+- name: rust-stakeholder
+  url: https://github.com/giacomo-b/rust-stakeholder
+  description: 一个命令行工具，唯一作用就是让你的终端显得很忙，源源不断有输出，适合摸鱼
   subcategory: 社区与协作
 
 # 其他

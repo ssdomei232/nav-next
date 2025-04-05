@@ -67,6 +67,10 @@
   url: https://www.ruanyifeng.com/blog/2025/02/weekly-issue-339.html
   description: 一个开源的在线工具，将网址转成一张包含二维码、网站标题和简介的图片
   subcategory: 设计
+- name: QR Code Generator
+  url: https://fietkau.software/qr
+  description: 一个网页应用，可以定制二维码的颜色、斑点、徽标
+  subcategory: 设计
 
 # 素材
 - name: 影视飓风
@@ -220,6 +224,10 @@
 - name: MoePush
   url: https://github.com/beilunyang/moepush
   description: 基于 NextJS + Cloudflare 的消息推送服务, 支持钉钉、企业微信、Telegram 等多种渠道
+  subcategory: 运维
+- name: Anubis
+  url: https://anubis.techaro.lol/
+  description: 采用工作量证明的反向代理,对付爬虫
   subcategory: 运维
 
 # 网络

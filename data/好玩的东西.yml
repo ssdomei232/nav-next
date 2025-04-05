@@ -61,3 +61,6 @@
 - name: Arnis
   url: https://github.com/louis-e/arnis
   description: 将现实世界搬进《我的世界》：开源工具 Arnis 实现高使用精度地图生成MC场景
+- name: Shapecatcher
+  url: https://shapecatcher.com/
+  description: 这个网站根据你画出的形状，返回匹配的 Unicode 字符，包括 Emoji 字符和东亚文字。
