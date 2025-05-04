@@ -64,3 +64,6 @@
 - name: Shapecatcher
   url: https://shapecatcher.com/
   description: 这个网站根据你画出的形状，返回匹配的 Unicode 字符，包括 Emoji 字符和东亚文字。
+- name: DeepWiki
+  url: https://https://deepwiki.com/
+  description: 您可以将任何公共 GitHub 代码库的 URL 替换为“ https:// deepwiki. com/org/repo ” 即可获得类似维基百科的精准库描述。
