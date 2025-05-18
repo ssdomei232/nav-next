@@ -25,6 +25,10 @@
   url: https://github.com/klxf/BilibiliUserChecker
   description: B站用户成分查询
   subcategory: 插件
+- name: BiliFilter
+  url: https://github.com/ddddng/BiliFilter/
+  description: 基于本地大模型的 Bilibili 弹幕过滤器，对弹幕分类过滤
+  subcategory: 插件
 
 
 
