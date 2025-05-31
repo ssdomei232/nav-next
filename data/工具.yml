@@ -71,6 +71,10 @@
   url: https://fietkau.software/qr
   description: 一个网页应用，可以定制二维码的颜色、斑点、徽标
   subcategory: 设计
+- name: QingIcon
+  url: https://qingicon.com/
+  description: QingCloud　开源的图标库，收录了　2200+ 个开发有关的图标
+  subcategory: 设计
 
 # 素材
 - name: 影视飓风
