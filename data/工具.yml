@@ -111,6 +111,10 @@
   url: https://github.com/k4yt3x/video2x
   description: 视频图片超分工具
   subcategory: 影音
+- name: Zero Convert
+  url: https://nextbconvert.com/
+  description: 在线批量转换文件，基于 WebAssembly 技术，完全本地完成，还可以编辑图片
+  subcategory: 影音
 
 # 运维
 - name: terminal
