@@ -1,9 +1,6 @@
 - name: chinese-programmer-wrong-pronunciation
   url: https://github.com/shimohq/chinese-programmer-wrong-pronunciation
   description: 中国程序员容易发音错误的单词
-- name: AI 嘴替
-  url: https://zuiti.app/
-  description: 对指定的微博用户进行人格分析
 - name: similar-websites
   url: https://sitechecker.pro/similar-websites/
   description: 查找相似的网站
