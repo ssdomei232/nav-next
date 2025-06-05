@@ -49,10 +49,6 @@
   url: https://github.com/coollabsio/coolify
   description: 开源的应用运行平台，相当于自己搭建一个 Heroku / Netlify / Vercel 替代品，各种应用可以轻松在上面运行
   subcategory: Web开发与前端
-- name: socialify
-  url: https://github.com/wei/socialify
-  description: 以图片展示 Github 项目的数据
-  subcategory: Web开发与前端
 - name: Class-Widgets
   url: https://github.com/RinLit-233-shiroko/Class-Widgets
   description: 提供了易用课程表编辑和美观的桌面组件
@@ -63,8 +59,8 @@
   subcategory: Web开发与前端
 - name: luxirty-search
   url: https://github.com/KoriIku/luxirty-search
-  description: 一款面向后台的低代码可视化搭建平台，快速搭建中后台管理系统
-  subcategory: 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快
+  description: 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快
+  subcategory: Web开发与前端
 
 # 服务器与后端
 - name: Minecraft-Server-Ports-Scanner-GUI
