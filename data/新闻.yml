@@ -51,3 +51,7 @@
   url: https://news.ycombinator.com/
   description: 技术资讯网站
   subcategory: 科技
+- name: AI 洞察日报
+  url: https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily
+  description: 通过 Cloudflare Workers 抓取指定数据源，生成每日精选的 AI 日报
+  subcategory: 科技

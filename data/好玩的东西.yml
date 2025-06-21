@@ -64,3 +64,6 @@
 - name: DeepWiki
   url: https://https://deepwiki.com/
   description: 您可以将任何公共 GitHub 代码库的 URL 替换为“ https:// deepwiki. com/org/repo ” 即可获得类似维基百科的精准库描述。
+- name: 中国城市地铁可视化
+  url: https://github.com/thecuvii/subway
+  description: 一个交互式网页可视化应用，展示中国城市地铁线路

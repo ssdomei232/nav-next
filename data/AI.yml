@@ -147,3 +147,7 @@
   url: https://github.com/Byaidu/PDFMathTranslate
   description: 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
   subcategory: 工具
+- name: zenfeed
+  url: https://github.com/glidea/zenfeed
+  description: 智能信息助手，对于关注的新闻或话题，使用 AI 自动收集、筛选出要看的文章，并总结内容
+  subcategory: 工具

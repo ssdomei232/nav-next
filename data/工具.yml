@@ -237,6 +237,10 @@
   url: https://anubis.techaro.lol/
   description: 采用工作量证明的反向代理,对付爬虫
   subcategory: 运维
+- name: Link Checker
+  url: https://github.com/isixe/LinkChecker
+  description: 网站链接检查器，输入网站链接，找出其中的死链接
+  subcategory: 运维
 
 # 网络
 - name: ZBProxy
