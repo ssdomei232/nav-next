@@ -41,7 +41,7 @@
   subcategory: 大语言模型
 - name: anything-llm
   url: https://github.com/Mintplex-Labs/anything-llm
-  description: 一个全栈应用程序，可以将任何文档、资源（如网址链接、音频、视频）或内容片段转换为上下文，以便任何大语言模型（LLM）在聊天期间作为参考使用
+  description: 一个全栈应用程序,可以将任何文档、资源（如网址链接、音频、视频）或内容片段转换为上下文,以便任何大语言模型（LLM）在聊天期间作为参考使用
   subcategory: 大语言模型
 
 # 其它
@@ -59,7 +59,7 @@
   subcategory: 其它
 - name: Crawl4AI
   url: https://github.com/unclecode/crawl4ai
-  description: 开源AI网络爬虫工具,可以直接用于大语言模型和AI应用。性能快，还能输出适合大语言模型的格式，比如JSON、清理过的HTML和markdown。它还支持同时爬取多个网址，能提取所有媒体标签（图片、音频、视频），以及所有内外部链接。可以自定义用户代理，还能给网页截图，甚至在爬取之前执行自定义JavaScript。
+  description: 开源AI网络爬虫工具,可以直接用于大语言模型和AI应用。性能快,还能输出适合大语言模型的格式,比如JSON、清理过的HTML和markdown。它还支持同时爬取多个网址,能提取所有媒体标签（图片、音频、视频）,以及所有内外部链接。可以自定义用户代理,还能给网页截图,甚至在爬取之前执行自定义JavaScript。
   subcategory: 其它
 - name: postiz-app
   url: https://github.com/gitroomhq/postiz-app
@@ -81,7 +81,7 @@
   subcategory: 图像影音
 - name: ComfyUI
   url: https://github.com/comfyanonymous/ComfyUI
-  description: 一个强大的、模块化的 Stable Diffusion GUI，具有图形/节点界面
+  description: 一个强大的、模块化的 Stable Diffusion GUI,具有图形/节点界面
   subcategory: 图像影音
 - name: LivePortrait
   url: https://github.com/KwaiVGI/LivePortrait
@@ -101,11 +101,11 @@
   subcategory: 图像影音
 - name: Deep Live Cam
   url: https://deeplive.cam/zh
-  description: 只需一张图片，就可实现视频的人脸替换
+  description: 只需一张图片,就可实现视频的人脸替换
   subcategory: 图像影音
 - name: Linly-Dubbing
   url: https://github.com/Kedreamix/Linly-Dubbing
-  description: AI 视频配音的开源工具，自动将外语视频改成中文配音
+  description: AI 视频配音的开源工具,自动将外语视频改成中文配音
   subcategory: 图像影音
 - name: HivisionIDPhotos
   url: https://github.com/Zeyi-Lin/HivisionIDPhotos
@@ -121,11 +121,15 @@
   subcategory: 图像影音
 - name: screenpipe
   url: https://github.com/mediar-ai/screenpipe
-  description: 一个开源的全天候AI屏幕和麦克风捕捉应用程序，可以自动完成一系列工作任务
+  description: 一个开源的全天候AI屏幕和麦克风捕捉应用程序,可以自动完成一系列工作任务
   subcategory: 图像影音
 - name: Twocast
   url: https://github.com/panyanyany/Twocast
-  description: 真人 AI 播客生成器，一键生成 3~5 分钟播客，支持多语言、多音色，免费开源
+  description: 真人 AI 播客生成器,一键生成 3~5 分钟播客,支持多语言、多音色,免费开源
+  subcategory: 图像影音
+- name: Dolphin
+  url: https://github.com/bytedance/Dolphin?tab=readme-ov-file
+  description: 字节跳动开源的OCR模型,拥有惊人的3.22亿参数,巧妙地采用了并行策略,能实现超快速且高质量的文本识别
   subcategory: 图像影音
 
 # 推理训练
@@ -141,7 +145,7 @@
 # 工具
 - name: MemFree
   url: https://github.com/memfreeme/memfree
-  description: 一个混合 AI 搜索引擎，代码开源，可以自托管
+  description: 一个混合 AI 搜索引擎,代码开源,可以自托管
   subcategory: 工具
 - name: Real-time-translation-typing
   url: https://github.com/sxzxs/Real-time-translation-typing
@@ -149,9 +153,9 @@
   subcategory: 工具
 - name: PDFMathTranslate
   url: https://github.com/Byaidu/PDFMathTranslate
-  description: 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
+  description: 基于 AI 完整保留排版的 PDF 文档全文双语翻译,支持 Google/DeepL/Ollama/OpenAI 等服务,提供 CLI/GUI/Docker
   subcategory: 工具
 - name: zenfeed
   url: https://github.com/glidea/zenfeed
-  description: 智能信息助手，对于关注的新闻或话题，使用 AI 自动收集、筛选出要看的文章，并总结内容
+  description: 智能信息助手,对于关注的新闻或话题,使用 AI 自动收集、筛选出要看的文章,并总结内容
   subcategory: 工具

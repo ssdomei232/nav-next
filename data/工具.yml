@@ -123,6 +123,10 @@
   url: https://nextbconvert.com/
   description: 在线批量转换文件，基于 WebAssembly 技术，完全本地完成，还可以编辑图片
   subcategory: 影音
+- name: Lottie & TGS 动画转换器
+  url: https://github.com/SwaggyMacro/LottieViewConvert
+  description: 一个功能强大的跨平台桌面应用程序，用于将 TGS（Telegram 贴纸）和 Lottie 动画转换为多种格式，包括 GIF、WebP、APNG、MP4、MKV、AVIF 和 WebM
+  subcategory: 影音
 
 # 运维
 - name: terminal
