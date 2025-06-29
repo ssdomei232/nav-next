@@ -123,6 +123,10 @@
   url: https://github.com/mediar-ai/screenpipe
   description: 一个开源的全天候AI屏幕和麦克风捕捉应用程序，可以自动完成一系列工作任务
   subcategory: 图像影音
+- name: Twocast
+  url: https://github.com/panyanyany/Twocast
+  description: 真人 AI 播客生成器，一键生成 3~5 分钟播客，支持多语言、多音色，免费开源
+  subcategory: 图像影音
 
 # 推理训练
 - name: exo

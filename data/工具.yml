@@ -73,7 +73,11 @@
   subcategory: 设计
 - name: QingIcon
   url: https://qingicon.com/
-  description: QingCloud　开源的图标库，收录了　2200+ 个开发有关的图标
+  description: QingCloud 开源的图标库，收录了 2200+ 个开发有关的图标
+  subcategory: 设计
+- name: ICONIC
+  url: https://github.com/YuheshPandian/ICONIC
+  description: 一个开源的图标库，专门提供各种软件技术的图标
   subcategory: 设计
 
 # 素材
