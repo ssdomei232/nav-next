@@ -79,6 +79,18 @@
   url: https://github.com/YuheshPandian/ICONIC
   description: 一个开源的图标库，专门提供各种软件技术的图标
   subcategory: 设计
+- name: 超萌二维码生成器
+  url: https://www.codebox.club/zh
+  description: 一个在线的二维码生成平台，可以定制各种属性
+  subcategory: 设计
+- name: 免费在线拼图工具
+  url: https://img.ops-coffee.cn/zh/
+  description: 免费的在线工具，多张图片拼成一张大图
+  subcategory: 设计
+- name: 4 colors
+  url: https://www.iamsajid.com/colors/
+  description: 这个网站提出，页面设计只需要4种颜色：前景色、背景色、强调色和趣味色。你可以在该网站生成这四种颜色的调色板
+  subcategory: 设计
 
 # 素材
 - name: 影视飓风
@@ -249,6 +261,10 @@
   url: https://github.com/isixe/LinkChecker
   description: 网站链接检查器，输入网站链接，找出其中的死链接
   subcategory: 运维
+- name: WR.DO
+  url: https://github.com/oiov/wr.do
+  description: 一个自搭建的域名服务平台，可以基于域名创建子域名、短链接、邮件地址，并提供 API 接口
+  subcategory: 运维
 
 # 网络
 - name: ZBProxy
@@ -363,6 +379,10 @@
 - name: httrack
   url: https://github.com/xroche/httrack
   description: 网站复印机，将网站复制到您的计算机
+  subcategory: 其它
+- name: n8n 工作流导航
+  url: https://n8nworkflow.net/zh
+  description: 这个网站收集已经编排好的 n8n 工作流，目前共有近2000个
   subcategory: 其它
 
 # 开发
