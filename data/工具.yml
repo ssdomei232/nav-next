@@ -273,6 +273,11 @@
   url: https://github.com/sherlock-project/sherlock
   description: 在社交网络中按用户名寻找社交媒体帐户
   subcategory: 爬虫
+- name: MediaCrawler
+  url: https://github.com/NanmiCoder/MediaCrawler
+  description: 一个功能强大的多平台自媒体数据采集工具，支持小红书、抖音、快手、B站、微博、贴吧、知乎等主流平台的公开信息抓取
+  subcategory: 爬虫
+
 
 # 其它
 - name: 错别字检测

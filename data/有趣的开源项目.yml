@@ -115,6 +115,10 @@
   url: https://github.com/giacomo-b/rust-stakeholder
   description: 一个命令行工具，唯一作用就是让你的终端显得很忙，源源不断有输出，适合摸鱼
   subcategory: 社区与协作
+- name: 中文技术文档写作风格指南
+  url: https://zh-style-guide.readthedocs.io/zh-cn/latest/
+  description: 这份指南能完美弥补中小学教育中缺失的技术文档写作规范，为广大技术人员提供宝贵的实用指引
+  subcategory: 社区与协作
 
 # 其他
 - name: AsmBB
