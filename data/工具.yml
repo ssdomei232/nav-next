@@ -91,6 +91,14 @@
   url: https://www.iamsajid.com/colors/
   description: 这个网站提出，页面设计只需要4种颜色：前景色、背景色、强调色和趣味色。你可以在该网站生成这四种颜色的调色板
   subcategory: 设计
+- name: recraft
+  url: https://www.recraft.ai/ai-image-vectorizer
+  description: 免费将任何图像转换为矢量图
+  subcategory: 设计
+- name: ImageKit
+  url: https://github.com/hzbd/imagekit
+  description: 批量图片处理的命令行工具，使用 Rust 语言编写
+  subcategory: 设计
 
 # 素材
 - name: 影视飓风
@@ -138,6 +146,10 @@
 - name: Lottie & TGS 动画转换器
   url: https://github.com/SwaggyMacro/LottieViewConvert
   description: 一个功能强大的跨平台桌面应用程序，用于将 TGS（Telegram 贴纸）和 Lottie 动画转换为多种格式，包括 GIF、WebP、APNG、MP4、MKV、AVIF 和 WebM
+  subcategory: 影音
+- name: OpenCut
+  url: https://github.com/OpenCut-app/OpenCut
+  description: 开源的视频编辑软件，目标是成为剪映的替代品，目前只有 Web 版
   subcategory: 影音
 
 # 运维
@@ -384,6 +396,10 @@
   url: https://n8nworkflow.net/zh
   description: 这个网站收集已经编排好的 n8n 工作流，目前共有近2000个
   subcategory: 其它
+- name: Text Well
+  url: https://www.text-well.com/zh/app
+  description: 免费在线 AI 工具，用于修改润色文章
+  subcategory: 其它
 
 # 开发
 - name: noteshub
@@ -421,4 +437,8 @@
 - name: qrframe
   url: https://github.com/zhengkyl/qrframe
   description: 一个定制二维码的网页工具，提供大量选项
+  subcategory: 开发
+- name: OSS Rebuild
+  url: https://oss-rebuild.dev/
+  description: 谷歌推出的一项服务，用来验证网上的 NPM、PyPI、Rust 的软件包，是否跟源码构建出来的完全一样，保证软件供应链安全。
   subcategory: 开发

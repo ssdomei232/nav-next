@@ -159,3 +159,7 @@
   url: https://github.com/glidea/zenfeed
   description: 智能信息助手,对于关注的新闻或话题,使用 AI 自动收集、筛选出要看的文章,并总结内容
   subcategory: 工具
+- name: AIpex
+  url: https://www.aipex.quest/
+  description: Chrome 的开源插件，使用 AI 一键整理标签页
+  subcategory: 工具

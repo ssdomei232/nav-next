@@ -43,6 +43,10 @@
   url: https://www.coverpage.one/image
   description: 免费的封面图制作网站
   subcategory: 工具与实用程序
+- name: weekly-git-summary
+  url: https://github.com/yinzhenyu-su/weekly-git-summary
+  description: 一个命令行工具，根据 Git 提交记录生成周报
+  subcategory: 工具与实用程序
 
 # Web开发与前端
 - name: Coolify
